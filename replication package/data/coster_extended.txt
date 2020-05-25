@@ -1,0 +1,3494 @@
+Button setText javafx.scene.control.Button
+Arrays asList java.util.Arrays
+TextView setText android.widget.TextView
+JSONObject toString getString getJSONObject org.json.JSONObject
+MessageDigest getInstance update digest java.security.MessageDigest
+Signature toByteArray java.security.Signature
+Log e d org.apache.commons.logging.Log
+FilterChain doFilter javax.servlet.FilterChain
+HttpServletRequest setAttribute javax.servlet.http.HttpServletRequest
+Cookie getValue javax.servlet.http.Cookie
+PrintWriter print flush close java.io.PrintWriter
+Gson toJson com.google.gson.Gson
+HttpServletResponse getWriter javax.servlet.http.HttpServletResponse
+MenuItem getItemId java.awt.MenuItem
+List size get add java.util.List
+Log e org.apache.commons.logging.Log
+Canvas drawText java.awt.Canvas
+PrintStream println java.io.PrintStream
+List size get java.util.List
+Arrays asList java.util.Arrays
+CloseableHttpClient execute org.apache.http.impl.client.CloseableHttpClient
+CloseableHttpResponse getStatusLine getEntity org.apache.http.client.methods.CloseableHttpResponse
+SimpleDateFormat format java.text.SimpleDateFormat
+StatusLine getStatusCode org.apache.http.StatusLine
+ArrayList size get java.util.ArrayList
+Button setOnClickListener javafx.scene.control.Button
+WebView setWebViewClient addJavascriptInterface getSettings loadUrl javafx.scene.web.WebView
+TextView setText android.widget.TextView
+Map put java.util.Map
+StringWriter getBuffer java.io.StringWriter
+Log isWarnEnabled warn org.apache.commons.logging.Log
+TextView setText android.widget.TextView
+Intent getExtras android.content.Intent
+Log v org.apache.commons.logging.Log
+Button setOnClickListener javafx.scene.control.Button
+EqualsBuilder isEquals append org.apache.commons.lang3.builder.EqualsBuilder
+TextView setText android.widget.TextView
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+Log e org.apache.commons.logging.Log
+PrintStream println java.io.PrintStream
+TextView setGravity setLayoutParams setPadding setBackgroundColor setTextColor setText android.widget.TextView
+ArrayList add get java.util.ArrayList
+PrintStream println java.io.PrintStream
+MenuItem getItemId java.awt.MenuItem
+ImageView setBackground android.widget.ImageView
+Intent getData android.content.Intent
+Map entrySet java.util.Map
+Entry getKey getValue java.util.Map.Entry
+TextView setText android.widget.TextView
+Set contains add remove java.util.Set
+MediaPlayer create setAudioStreamType setLooping setOnCompletionListener isPlaying pause javafx.scene.media.MediaPlayer
+IOUtils toString org.apache.commons.io.IOUtils
+HttpServletRequest getHeader getParts javax.servlet.http.HttpServletRequest
+Charset forName java.nio.charset.Charset
+Map put isEmpty java.util.Map
+IOException printStackTrace java.io.IOException
+List get java.util.List
+TextView setText android.widget.TextView
+Intent putExtra android.content.Intent
+List add clear java.util.List
+Future get java.util.concurrent.Future
+ByteArrayInputStream read java.io.ByteArrayInputStream
+ByteArrayOutputStream write toByteArray close java.io.ByteArrayOutputStream
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+GsonBuilder registerTypeAdapter create com.google.gson.GsonBuilder
+Intent putExtra android.content.Intent
+ArrayList add java.util.ArrayList
+TextView setText android.widget.TextView
+ArrayList get java.util.ArrayList
+ResultSet wasNull getObject java.sql.ResultSet
+Matcher find group java.util.regex.Matcher
+HttpGet addHeader org.apache.http.client.methods.HttpGet
+HttpClient execute org.apache.http.client.HttpClient
+StringWriter append toString java.io.StringWriter
+HttpEntity getContent org.apache.http.HttpEntity
+HttpResponse getEntity org.apache.http.HttpResponse
+Pattern compile matcher java.util.regex.Pattern
+HttpClientBuilder build create org.apache.http.impl.client.HttpClientBuilder
+BufferedReader readLine java.io.BufferedReader
+Joiner join on com.google.common.base.Joiner
+PrintStream println java.io.PrintStream
+List size toArray java.util.List
+Set add contains java.util.Set
+Hibernate initialize org.hibernate.Hibernate
+TextView setText android.widget.TextView
+Button setOnClickListener javafx.scene.control.Button
+TextView setText android.widget.TextView
+SharedPreferences getString android.content.SharedPreferences
+List add java.util.List
+Lists newArrayList com.google.common.collect.Lists
+Map put keySet get java.util.Map
+Maps newHashMap com.google.common.collect.Maps
+RootPanel add get com.google.gwt.user.client.ui.RootPanel
+ArrayList add java.util.ArrayList
+PrintStream println java.io.PrintStream
+Arrays asList java.util.Arrays
+CollectionUtils select org.apache.commons.collections.CollectionUtils
+Unmarshaller unmarshal javax.xml.bind.Unmarshaller
+ByteArrayOutputStream toByteArray java.io.ByteArrayOutputStream
+Marshaller setProperty marshal javax.xml.bind.Marshaller
+JAXBElement getValue javax.xml.bind.JAXBElement
+JAXBContext newInstance createUnmarshaller createMarshaller javax.xml.bind.JAXBContext
+IOUtils toString org.apache.commons.io.IOUtils
+Optional isPresent java.util.Optional
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+ArrayList add java.util.ArrayList
+PrintStream println java.io.PrintStream
+Assert assertTrue org.junit.Assert
+NumberFormat format java.text.NumberFormat
+List add java.util.List
+Map get put java.util.Map
+SharedPreferences getString edit android.content.SharedPreferences
+PrintStream println java.io.PrintStream
+List add size java.util.List
+ObjectInputStream readObject java.io.ObjectInputStream
+ObjectOutputStream writeObject close java.io.ObjectOutputStream
+Logger info org.apache.log4j.Logger
+Map values java.util.Map
+List add java.util.List
+Assert assertTrue assertFalse org.junit.Assert
+MenuItem getItemId java.awt.MenuItem
+TextView setText android.widget.TextView
+ArrayList add java.util.ArrayList
+List add java.util.List
+Map get keySet containsKey java.util.Map
+Collections list enumeration java.util.Collections
+PrintStream println java.io.PrintStream
+XStream alias fromXML com.thoughtworks.xstream.XStream
+List get size java.util.List
+Button setOnClickListener javafx.scene.control.Button
+LocalDate parse java.time.LocalDate
+TextView setText android.widget.TextView
+Map get java.util.Map
+TextView setTextColor android.widget.TextView
+Log e d org.apache.commons.logging.Log
+Intent getIntExtra addCategory setFlags android.content.Intent
+HashMap put java.util.HashMap
+PrintStream println java.io.PrintStream
+DateTime toString now org.joda.time.DateTime
+UUID randomUUID java.util.UUID
+PrintStream println java.io.PrintStream
+IOException printStackTrace java.io.IOException
+File getAbsolutePath java.io.File
+JSONObject getString getJSONObject getJSONArray org.json.JSONObject
+Log i org.apache.commons.logging.Log
+JSONArray length getJSONObject org.json.JSONArray
+Button setOnClickListener javafx.scene.control.Button
+PrintStream println java.io.PrintStream
+Iterator next java.util.Iterator
+Set contains iterator java.util.Set
+HashMap put java.util.HashMap
+LoginContext login getSubject logout javax.security.auth.login.LoginContext
+Subject getPrincipals javax.security.auth.Subject
+List add size get remove java.util.List
+Map get put size remove java.util.Map
+Set add contains java.util.Set
+Collections shuffle java.util.Collections
+PrintStream println java.io.PrintStream
+ExternalContext getApplicationMap javax.faces.context.ExternalContext
+FacesContext getExternalContext getCurrentInstance javax.faces.context.FacesContext
+Map remove java.util.Map
+Logger log java.util.logging.Logger
+StringUtils isNotBlank org.apache.commons.lang3.StringUtils
+List add java.util.List
+Calendar getInstance getTimeInMillis getTimeZone java.util.Calendar
+TimeZone getTimeZone getDisplayName getRawOffset inDaylightTime getDSTSavings java.util.TimeZone
+URL openConnection java.net.URL
+SQLException getMessage java.sql.SQLException
+Connection createStatement java.sql.Connection
+ResultSet next getString java.sql.ResultSet
+Log d e org.apache.commons.logging.Log
+DriverManager getConnection java.sql.DriverManager
+PrintStream println java.io.PrintStream
+List add java.util.List
+HashMap get java.util.HashMap
+Set size java.util.Set
+WebView setLayoutParams getSettings loadUrl setWebViewClient setWebChromeClient javafx.scene.web.WebView
+Intent addCategory setType createChooser getData android.content.Intent
+Lists newArrayList com.google.common.collect.Lists
+Collection add java.util.Collection
+PrintStream println java.io.PrintStream
+StringWriter toString java.io.StringWriter
+Assert assertTrue org.junit.Assert
+Log e org.apache.commons.logging.Log
+Intent toURI android.content.Intent
+TextView setText android.widget.TextView
+Intent getStringExtra getIntExtra putExtras android.content.Intent
+Log d org.apache.commons.logging.Log
+ConcurrentHashMap keySet get put java.util.concurrent.ConcurrentHashMap
+EntityTransaction begin javax.persistence.EntityTransaction
+EntityManager getTransaction javax.persistence.EntityManager
+Button setOnClickListener javafx.scene.control.Button
+EntityManager persist javax.persistence.EntityManager
+WebView setWebViewClient getSettings loadUrl javafx.scene.web.WebView
+Arrays asList java.util.Arrays
+List add toArray size java.util.List
+Button setOnTouchListener javafx.scene.control.Button
+Log d org.apache.commons.logging.Log
+Future cancel java.util.concurrent.Future
+Arrays asList java.util.Arrays
+Queue offer isEmpty remove poll java.util.Queue
+Executors newFixedThreadPool java.util.concurrent.Executors
+CompletionService submit take java.util.concurrent.CompletionService
+ExecutorService shutdownNow java.util.concurrent.ExecutorService
+File mkdirs delete java.io.File
+Matcher matches hitEnd java.util.regex.Matcher
+Pattern matcher java.util.regex.Pattern
+PrintStream println java.io.PrintStream
+Gson fromJson toJson com.google.gson.Gson
+Map get put remove java.util.Map
+Logger info org.apache.log4j.Logger
+KeyStore getInstance getDefaultType load java.security.KeyStore
+HttpClientBuilder create setSSLSocketFactory setConnectionManager build org.apache.http.impl.client.HttpClientBuilder
+InputStream close java.io.InputStream
+Enumeration hasMoreElements nextElement java.util.Enumeration
+ZipFile entries getInputStream java.util.zip.ZipFile
+Log d org.apache.commons.logging.Log
+ZipEntry isDirectory getName java.util.zip.ZipEntry
+File exists getParentFile mkdirs getName java.io.File
+NodeList item getLength org.w3c.dom.NodeList
+Assert fail assertEquals junit.framework.Assert
+Document getElementsByTagName org.w3c.dom.Document
+DocumentBuilder parse javax.xml.parsers.DocumentBuilder
+Node getChildNodes getTextContent getNodeName org.w3c.dom.Node
+DocumentBuilderFactory newDocumentBuilder newInstance javax.xml.parsers.DocumentBuilderFactory
+TextView setText android.widget.TextView
+PrintStream println java.io.PrintStream
+Properties setProperty java.util.Properties
+Log e org.apache.commons.logging.Log
+MediaPlayer setDataSource prepare start release javafx.scene.media.MediaPlayer
+SharedPreferences getString edit android.content.SharedPreferences
+Intent addFlags android.content.Intent
+Properties getProperty java.util.Properties
+PreparedStatement setObject java.sql.PreparedStatement
+HttpURLConnection setRequestMethod setDoInput setDoOutput getOutputStream getResponseCode getInputStream java.net.HttpURLConnection
+URLEncoder encode java.net.URLEncoder
+URL openConnection java.net.URL
+OutputStreamWriter write flush close java.io.OutputStreamWriter
+BufferedReader readLine close java.io.BufferedReader
+TextView setGravity setTextSize android.widget.TextView
+PrintStream println java.io.PrintStream
+Session persist org.hibernate.classic.Session
+SessionFactory getCurrentSession org.hibernate.SessionFactory
+Button setOnClickListener javafx.scene.control.Button
+ImageView setBackgroundDrawable android.widget.ImageView
+PrintStream printf java.io.PrintStream
+Logger error org.apache.log4j.Logger
+SessionFactory openSession org.hibernate.SessionFactory
+DefaultHttpClient execute org.apache.http.impl.client.DefaultHttpClient
+HttpPost setEntity setHeader org.apache.http.client.methods.HttpPost
+Gson toJson com.google.gson.Gson
+Map get java.util.Map
+HttpResponse getStatusLine getEntity org.apache.http.HttpResponse
+Log d org.apache.commons.logging.Log
+StatusLine getStatusCode org.apache.http.StatusLine
+EntityUtils toString org.apache.http.util.EntityUtils
+Objects equals java.util.Objects
+Paths get java.nio.file.Paths
+Files write java.nio.file.Files
+IOException printStackTrace java.io.IOException
+Path toString java.nio.file.Path
+RequestDispatcher include javax.servlet.RequestDispatcher
+List equals java.util.List
+Arrays asList toString java.util.Arrays
+Element getAttribute org.w3c.dom.Element
+Document getDocumentElement org.w3c.dom.Document
+Date getTime java.util.Date
+DocumentBuilder parse reset javax.xml.parsers.DocumentBuilder
+SimpleDateFormat parse java.text.SimpleDateFormat
+DocumentBuilderFactory newDocumentBuilder javax.xml.parsers.DocumentBuilderFactory
+DateFormat parse java.text.DateFormat
+Joiner join com.google.common.base.Joiner
+SharedPreferences edit getBoolean android.content.SharedPreferences
+Intent getExtras android.content.Intent
+Log i org.apache.commons.logging.Log
+PrintStream println printf java.io.PrintStream
+CloseableHttpClient execute org.apache.http.impl.client.CloseableHttpClient
+CloseableHttpResponse getEntity getStatusLine org.apache.http.client.methods.CloseableHttpResponse
+HttpEntity getContentLength org.apache.http.HttpEntity
+EntityUtils toString consume org.apache.http.util.EntityUtils
+PrintStream println java.io.PrintStream
+XStream alias fromXML com.thoughtworks.xstream.XStream
+URL openStream java.net.URL
+BufferedReader readLine java.io.BufferedReader
+Log d org.apache.commons.logging.Log
+TextView setText android.widget.TextView
+SimpleDateFormat setCalendar format java.text.SimpleDateFormat
+RemoteException getMessage printStackTrace java.rmi.RemoteException
+HttpServletRequest getParameter javax.servlet.http.HttpServletRequest
+Stream of java.util.stream.Stream
+TextView setHint setGravity android.widget.TextView
+ArrayList add java.util.ArrayList
+List size get add java.util.List
+Button setOnClickListener javafx.scene.control.Button
+SharedPreferences edit android.content.SharedPreferences
+PrintStream println java.io.PrintStream
+Transaction commit org.hibernate.Transaction
+SessionFactory openSession close org.hibernate.SessionFactory
+Session beginTransaction get getTransaction close org.hibernate.Session
+AnnotationConfiguration buildSessionFactory addAnnotatedClass setProperty org.hibernate.cfg.AnnotationConfiguration
+List add java.util.List
+Calendar getInstance getTime java.util.Calendar
+TextView setText android.widget.TextView
+Locale getDefault java.util.Locale
+SimpleDateFormat format java.text.SimpleDateFormat
+Calendar getInstance get java.util.Calendar
+TextView setText android.widget.TextView
+Arrays asList java.util.Arrays
+ClientProtocolException printStackTrace org.apache.http.client.ClientProtocolException
+JSONException printStackTrace org.json.JSONException
+JSONObject toString names toJSONArray put org.json.JSONObject
+HttpClient execute org.apache.http.client.HttpClient
+HttpEntity getContent org.apache.http.HttpEntity
+HttpResponse getStatusLine getEntity org.apache.http.HttpResponse
+IOException printStackTrace java.io.IOException
+Log i org.apache.commons.logging.Log
+BufferedReader readLine java.io.BufferedReader
+StatusLine toString org.apache.http.StatusLine
+JSONArray length getString org.json.JSONArray
+InputStream close java.io.InputStream
+WebView clearCache clearHistory getSettings javafx.scene.web.WebView
+LocalDate isBefore minusDays isAfter plusDays getDayOfWeek toString toDate org.joda.time.LocalDate
+Date getTime java.util.Date
+HashMap put values keySet get java.util.HashMap
+Log fatal org.apache.commons.logging.Log
+ArrayList add java.util.ArrayList
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+Button setOnClickListener javafx.scene.control.Button
+TextView setText android.widget.TextView
+Button setOnClickListener setText getText javafx.scene.control.Button
+Arrays sort binarySearch java.util.Arrays
+SharedPreferences getAll getString edit android.content.SharedPreferences
+Map keySet java.util.Map
+Set toArray java.util.Set
+ArrayList get java.util.ArrayList
+Log d e org.apache.commons.logging.Log
+PrintStream println java.io.PrintStream
+Logger warn error org.apache.log4j.Logger
+HttpServletRequest getInputStream javax.servlet.http.HttpServletRequest
+BufferedReader read close java.io.BufferedReader
+ServletContext addListener addServlet javax.servlet.ServletContext
+PrintStream println java.io.PrintStream
+List add java.util.List
+Gson toJson fromJson com.google.gson.Gson
+HashMap put java.util.HashMap
+ByteOrder nativeOrder java.nio.ByteOrder
+ResultSet getBytes java.sql.ResultSet
+PreparedStatement setNull setBytes java.sql.PreparedStatement
+ByteBuffer wrap array putDouble allocate java.nio.ByteBuffer
+HttpURLConnection connect getResponseCode java.net.HttpURLConnection
+ImageView setLayoutParams setScaleType setPadding setImageResource android.widget.ImageView
+BigDecimal multiply valueOf divide divideAndRemainder intValue compareTo doubleValue java.math.BigDecimal
+Assert assertEquals org.junit.Assert
+Logger log getLogger java.util.logging.Logger
+NumberFormat getCurrencyInstance setCurrency setGroupingUsed setMaximumFractionDigits format java.text.NumberFormat
+ServletContext setSessionTrackingModes getSessionCookieConfig javax.servlet.ServletContext
+XPath evaluate javax.xml.xpath.XPath
+StringUtils isEmpty org.apache.commons.lang3.StringUtils
+Button setOnClickListener javafx.scene.control.Button
+Calendar getInstance get java.util.Calendar
+TextView setText android.widget.TextView
+Intent putExtra android.content.Intent
+ArrayList size get java.util.ArrayList
+PrintStream print java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+List add java.util.List
+HashMap put java.util.HashMap
+DateTimeFormat shortDate org.joda.time.format.DateTimeFormat
+Matcher find group java.util.regex.Matcher
+DateTimeFormatter print parseLocalDate org.joda.time.format.DateTimeFormatter
+Locale getLanguage getDefault java.util.Locale
+Entry getKey getValue java.util.Map.Entry
+HashMap put entrySet java.util.HashMap
+Pattern matcher compile java.util.regex.Pattern
+PrintStream println java.io.PrintStream
+OutputStream write flush java.io.OutputStream
+Socket getOutputStream close java.net.Socket
+BufferedInputStream read java.io.BufferedInputStream
+TextView setText android.widget.TextView
+ImageView setImageURI android.widget.ImageView
+Intent setType setAction createChooser getData android.content.Intent
+IOException printStackTrace java.io.IOException
+UnknownHostException printStackTrace java.net.UnknownHostException
+File length java.io.File
+PrintStream println java.io.PrintStream
+Group getLongID javafx.scene.Group
+List get java.util.List
+TextView setText getText android.widget.TextView
+SharedPreferences edit getString android.content.SharedPreferences
+Locale getDefault java.util.Locale
+Intent getStringExtra android.content.Intent
+IOException printStackTrace java.io.IOException
+HttpURLConnection getInputStream disconnect java.net.HttpURLConnection
+URL openConnection java.net.URL
+FileOutputStream getFD java.io.FileOutputStream
+Intent getData setDataAndType getType android.content.Intent
+File mkdirs exists delete getPath java.io.File
+InputStream read java.io.InputStream
+BufferedOutputStream write flush close java.io.BufferedOutputStream
+Log warn org.apache.commons.logging.Log
+Component addAllParameters java.awt.Component
+ImageView setImageResource android.widget.ImageView
+Random nextInt java.util.Random
+PrintStream println java.io.PrintStream
+List add java.util.List
+IOUtils write org.apache.commons.io.IOUtils
+Button setOnClickListener javafx.scene.control.Button
+List add java.util.List
+WebView setWebViewClient getSettings loadUrl javafx.scene.web.WebView
+Log d e org.apache.commons.logging.Log
+Intent putExtra android.content.Intent
+ByteOrder nativeOrder java.nio.ByteOrder
+FloatBuffer put position java.nio.FloatBuffer
+ShortBuffer put java.nio.ShortBuffer
+ByteBuffer allocateDirect order asFloatBuffer asShortBuffer java.nio.ByteBuffer
+TextView setText setVisibility android.widget.TextView
+ImageView clearAnimation startAnimation setVisibility android.widget.ImageView
+SimpleDateFormat format java.text.SimpleDateFormat
+List add java.util.List
+TextView setText android.widget.TextView
+Log d org.apache.commons.logging.Log
+MediaPlayer setDataSource prepare start pause stop javafx.scene.media.MediaPlayer
+File getPath java.io.File
+TextView setText android.widget.TextView
+PrintStream println java.io.PrintStream
+Arrays asList java.util.Arrays
+Strings padEnd com.google.common.base.Strings
+Map get put java.util.Map
+PrintWriter write close java.io.PrintWriter
+XStream toXML com.thoughtworks.xstream.XStream
+ArrayList add java.util.ArrayList
+WebView getSettings loadUrl canGoBack goBack javafx.scene.web.WebView
+HttpSession getServletContext javax.servlet.http.HttpSession
+PrintStream println java.io.PrintStream
+HttpServletRequest getSession javax.servlet.http.HttpServletRequest
+List size add java.util.List
+ServletContext getRealPath javax.servlet.ServletContext
+List iterator java.util.List
+Iterator hasNext next java.util.Iterator
+Log info error org.apache.commons.logging.Log
+Matcher find appendReplacement group appendTail java.util.regex.Matcher
+Canvas drawRect java.awt.Canvas
+TextView setTextColor setText setBackgroundColor android.widget.TextView
+WebView loadUrl getSettings setWebViewClient setWebChromeClient reload canGoBack goBack javafx.scene.web.WebView
+Intent setType putExtra createChooser android.content.Intent
+Transaction commit org.hibernate.Transaction
+PrintStream println java.io.PrintStream
+Session beginTransaction get getTransaction org.hibernate.Session
+Button setOnClickListener javafx.scene.control.Button
+IOException printStackTrace java.io.IOException
+File exists mkdir getPath java.io.File
+TextView setText android.widget.TextView
+ByteArrayOutputStream write flush toByteArray java.io.ByteArrayOutputStream
+InputStream read java.io.InputStream
+JSONException getMessage printStackTrace org.json.JSONException
+JSONObject getJSONArray getString org.json.JSONObject
+HashMap put java.util.HashMap
+Log e org.apache.commons.logging.Log
+JSONArray length getJSONObject org.json.JSONArray
+ArrayList add java.util.ArrayList
+Stage setScene setTitle show javafx.stage.Stage
+FXMLLoader setControllerFactory load javafx.fxml.FXMLLoader
+Button setOnClickListener setText javafx.scene.control.Button
+ImageView setVisibility setImageBitmap android.widget.ImageView
+Intent putExtra android.content.Intent
+TextView setText setBackgroundDrawable android.widget.TextView
+PrintStream println java.io.PrintStream
+JsonObject entrySet com.google.gson.JsonObject
+Gson toJson fromJson com.google.gson.Gson
+Entry getKey getValue java.util.Map.Entry
+PrintStream println java.io.PrintStream
+SQLException printStackTrace java.sql.SQLException
+Connection createStatement java.sql.Connection
+ResultSet next getInt java.sql.ResultSet
+Statement executeQuery java.sql.Statement
+PrintStream println java.io.PrintStream
+CollectionUtils subtract org.apache.commons.collections.CollectionUtils
+Collection isEmpty java.util.Collection
+Set add java.util.Set
+TextView setText android.widget.TextView
+ArrayList size get java.util.ArrayList
+PrintStream println java.io.PrintStream
+Collections singletonList java.util.Collections
+MediaPlayer create release javafx.scene.media.MediaPlayer
+ImageView setImageURI android.widget.ImageView
+Intent setAction setType createChooser getData android.content.Intent
+PrintWriter println java.io.PrintWriter
+Transaction commit rollback org.hibernate.Transaction
+PrintStream println java.io.PrintStream
+List add get size java.util.List
+Iterator hasNext next java.util.Iterator
+Map put get java.util.Map
+FileOutputStream close java.io.FileOutputStream
+Session beginTransaction save close org.hibernate.Session
+SimpleDateFormat format java.text.SimpleDateFormat
+IOException printStackTrace java.io.IOException
+HibernateException printStackTrace org.hibernate.HibernateException
+FileNotFoundException printStackTrace java.io.FileNotFoundException
+Random nextInt java.util.Random
+Canvas drawColor drawCircle java.awt.Canvas
+ArrayList get size clear add java.util.ArrayList
+Paths get java.nio.file.Paths
+Files isReadable java.nio.file.Files
+Map size entrySet put java.util.Map
+Entry getKey getValue java.util.Map.Entry
+Path toFile java.nio.file.Path
+File getPath java.io.File
+Level parse java.util.logging.Level
+TextView setTextSize setText android.widget.TextView
+Intent getStringExtra android.content.Intent
+PrintStream println java.io.PrintStream
+HttpURLConnection setRequestMethod setRequestProperty setDoInput setDoOutput getOutputStream getResponseCode getInputStream disconnect java.net.HttpURLConnection
+OutputStream close java.io.OutputStream
+URLEncoder encode java.net.URLEncoder
+MalformedURLException printStackTrace java.net.MalformedURLException
+URL openConnection java.net.URL
+BufferedWriter write flush close java.io.BufferedWriter
+Entry getKey getValue java.util.Map.Entry
+HashMap entrySet put java.util.HashMap
+IOException printStackTrace java.io.IOException
+BufferedReader readLine java.io.BufferedReader
+Intent getAction getExtras android.content.Intent
+Log d org.apache.commons.logging.Log
+TextView setText android.widget.TextView
+ArrayList get java.util.ArrayList
+List add java.util.List
+Lists newArrayList com.google.common.collect.Lists
+PrintStream println java.io.PrintStream
+JsonObject addProperty com.google.gson.JsonObject
+Arrays asList java.util.Arrays
+List size get java.util.List
+JsonArray add com.google.gson.JsonArray
+Gson toJson com.google.gson.Gson
+BufferedReader readLine java.io.BufferedReader
+GsonBuilder create setFieldNamingPolicy serializeNulls setPrettyPrinting com.google.gson.GsonBuilder
+Matcher matches java.util.regex.Matcher
+Log d org.apache.commons.logging.Log
+Pattern toString matcher java.util.regex.Pattern
+Button setOnClickListener javafx.scene.control.Button
+TextView setText android.widget.TextView
+LocalDate now get java.time.LocalDate
+Intent getParcelableExtra android.content.Intent
+DateFormat format getDateInstance java.text.DateFormat
+Map put java.util.Map
+HttpServletRequest getParameter javax.servlet.http.HttpServletRequest
+Assert assertEquals org.junit.Assert
+SharedPreferences getStringSet android.content.SharedPreferences
+Log v org.apache.commons.logging.Log
+PrintStream println java.io.PrintStream
+Log d org.apache.commons.logging.Log
+List add size toArray java.util.List
+List removeAll java.util.List
+JsonArray add com.google.gson.JsonArray
+Collections singleton java.util.Collections
+RectF offset inset width left right android.graphics.RectF
+Path moveTo arcTo lineTo javafx.scene.shape.Path
+Log d org.apache.commons.logging.Log
+ArrayList clear add size get java.util.ArrayList
+DataInputStream readInt readFully java.io.DataInputStream
+Socket getOutputStream getInputStream java.net.Socket
+DataOutputStream writeInt write java.io.DataOutputStream
+Log e org.apache.commons.logging.Log
+Timer scheduleAtFixedRate java.util.Timer
+IOException printStackTrace java.io.IOException
+PrintStream println java.io.PrintStream
+List add get java.util.List
+Properties put java.util.Properties
+Session setPassword setConfig connect isConnected openChannel org.hibernate.classic.Session
+Log d org.apache.commons.logging.Log
+BufferedReader readLine java.io.BufferedReader
+List add java.util.List
+JSONException printStackTrace org.json.JSONException
+JSONObject toString getJSONArray getString getInt org.json.JSONObject
+StringWriter toString java.io.StringWriter
+Map get put java.util.Map
+Log d org.apache.commons.logging.Log
+JSONArray length getJSONObject org.json.JSONArray
+Date getTime java.util.Date
+Timestamp toString java.sql.Timestamp
+MalformedURLException getLocalizedMessage java.net.MalformedURLException
+ByteArrayOutputStream write toByteArray java.io.ByteArrayOutputStream
+Intent putExtra android.content.Intent
+Queue add size remove java.util.Queue
+InputStream available read java.io.InputStream
+JSONException printStackTrace org.json.JSONException
+JSONObject toString getInt getJSONArray getString org.json.JSONObject
+Log i org.apache.commons.logging.Log
+HashMap put java.util.HashMap
+JSONArray length getJSONObject org.json.JSONArray
+ArrayList add java.util.ArrayList
+PrintStream println java.io.PrintStream
+List add java.util.List
+Map put java.util.Map
+List size get java.util.List
+PrintStream println java.io.PrintStream
+Assert assertEquals org.junit.Assert
+Intent putExtra addFlags android.content.Intent
+File getAbsolutePath java.io.File
+EntityManager createNamedQuery javax.persistence.EntityManager
+TypedQuery setParameter setMaxResults setFirstResult getResultList javax.persistence.TypedQuery
+ClientProtocolException toString org.apache.http.client.ClientProtocolException
+List add java.util.List
+JSONException printStackTrace org.json.JSONException
+JSONObject getString org.json.JSONObject
+HttpClient execute org.apache.http.client.HttpClient
+HttpEntity getContent org.apache.http.HttpEntity
+HttpResponse getEntity org.apache.http.HttpResponse
+IOException printStackTrace toString java.io.IOException
+Log e org.apache.commons.logging.Log
+BufferedReader readLine java.io.BufferedReader
+JSONArray length getJSONObject org.json.JSONArray
+InputStream close java.io.InputStream
+Button setOnClickListener javafx.scene.control.Button
+WebView getSettings setWebViewClient setWebChromeClient loadUrl javafx.scene.web.WebView
+Log d org.apache.commons.logging.Log
+Calendar getTime java.util.Calendar
+DateTime toLocalTime org.joda.time.DateTime
+DatatypeConverter parseDate parseTime parseDateTime javax.xml.bind.DatatypeConverter
+PrintStream println java.io.PrintStream
+Gson toJson fromJson com.google.gson.Gson
+TextView setText android.widget.TextView
+Charset forName java.nio.charset.Charset
+List iterator clear add java.util.List
+Iterator hasNext next java.util.Iterator
+Collections sort java.util.Collections
+Button setText javafx.scene.control.Button
+MediaPlayer create setOnCompletionListener isPlaying pause start javafx.scene.media.MediaPlayer
+Socket getInputStream java.net.Socket
+BufferedReader readLine java.io.BufferedReader
+Logger error org.apache.log4j.Logger
+Map values get put java.util.Map
+SessionFactory getCurrentSession org.hibernate.SessionFactory
+Session getStatistics org.hibernate.Session
+Serializable toString java.io.Serializable
+Intent putExtra android.content.Intent
+Arrays sort java.util.Arrays
+MenuItem getItemId java.awt.MenuItem
+Charset forName java.nio.charset.Charset
+Writer write close java.io.Writer
+Intent putExtra setType android.content.Intent
+Log e w org.apache.commons.logging.Log
+Pattern split java.util.regex.Pattern
+File getPath java.io.File
+WebView setVerticalScrollBarEnabled setHorizontalScrollBarEnabled getSettings loadUrl javafx.scene.web.WebView
+Assert assertEquals assertTrue assertFalse org.junit.Assert
+Assert assertEquals org.junit.Assert
+Arrays copyOf java.util.Arrays
+Map get put java.util.Map
+List add java.util.List
+Gson toJson fromJson com.google.gson.Gson
+Log i d org.apache.commons.logging.Log
+Example getExampleString getExample2List org.hibernate.criterion.Example
+PrintStream println java.io.PrintStream
+Intent setType getData android.content.Intent
+OutputStream write flush close java.io.OutputStream
+URL openConnection openStream java.net.URL
+URLConnection connect getContentLength java.net.URLConnection
+InputStream read close java.io.InputStream
+List add toString size get java.util.List
+JSONObject getString getJSONObject keys toString org.json.JSONObject
+Iterator hasNext next java.util.Iterator
+URL openConnection java.net.URL
+URLConnection getInputStream java.net.URLConnection
+Log e w org.apache.commons.logging.Log
+BufferedReader readLine close java.io.BufferedReader
+PrintStream println java.io.PrintStream
+PrintStream println java.io.PrintStream
+Socket getOutputStream getInputStream close java.net.Socket
+ObjectInputStream readObject java.io.ObjectInputStream
+ObjectOutputStream writeObject java.io.ObjectOutputStream
+IOException printStackTrace toString java.io.IOException
+UnknownHostException printStackTrace toString java.net.UnknownHostException
+Canvas drawRoundRect drawText java.awt.Canvas
+ArrayList add java.util.ArrayList
+FileOutputStream flush close java.io.FileOutputStream
+Log e org.apache.commons.logging.Log
+Random nextInt java.util.Random
+Intent setType putExtra createChooser android.content.Intent
+File toString mkdirs exists delete java.io.File
+TextView setText android.widget.TextView
+Intent getSerializableExtra android.content.Intent
+JsonElement getAsJsonObject com.google.gson.JsonElement
+JsonObject getAsJsonObject entrySet getAsJsonArray com.google.gson.JsonObject
+JsonArray isJsonArray iterator com.google.gson.JsonArray
+Iterator next hasNext java.util.Iterator
+Entry getKey java.util.Map.Entry
+Set toArray iterator java.util.Set
+TextView setText android.widget.TextView
+ImageView setBackgroundResource android.widget.ImageView
+ArrayList get java.util.ArrayList
+Connection prepareStatement java.sql.Connection
+DataSource getConnection javax.sql.DataSource
+PreparedStatement setInt setString java.sql.PreparedStatement
+Button setOnClickListener getText setText javafx.scene.control.Button
+Assert assertNotNull assertEquals org.junit.Assert
+Assert assertEquals assertNull org.junit.Assert
+PrintStream println java.io.PrintStream
+JsonElement isJsonObject getAsJsonObject isJsonArray getAsJsonArray isJsonPrimitive equals toString com.google.gson.JsonElement
+JsonObject keySet get has add toString com.google.gson.JsonObject
+JsonArray toString remove add contains com.google.gson.JsonArray
+HashMap get java.util.HashMap
+JsonParser parse com.google.gson.JsonParser
+ArrayList add toArray size get java.util.ArrayList
+TextView setVisibility android.widget.TextView
+PrintStream println java.io.PrintStream
+ImageView setImageResource android.widget.ImageView
+TextView setText android.widget.TextView
+Button setOnClickListener javafx.scene.control.Button
+TextView setText android.widget.TextView
+PrintStream println java.io.PrintStream
+PrintStream println java.io.PrintStream
+Random nextInt java.util.Random
+TimeUnit sleep java.util.concurrent.TimeUnit
+AtomicInteger get java.util.concurrent.atomic.AtomicInteger
+PrintStream println java.io.PrintStream
+JsonElement getAsJsonObject com.google.gson.JsonElement
+JsonObject has com.google.gson.JsonObject
+Gson fromJson toJson com.google.gson.Gson
+Map keySet get java.util.Map
+GsonBuilder create registerTypeAdapter com.google.gson.GsonBuilder
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+Log d org.apache.commons.logging.Log
+Log e org.apache.commons.logging.Log
+PrintStream println java.io.PrintStream
+Random nextInt java.util.Random
+Map put get java.util.Map
+Gson getDelegateAdapter com.google.gson.Gson
+Map get java.util.Map
+JsonWriter beginObject name value endObject com.google.gson.stream.JsonWriter
+JsonReader peek nextNull beginObject nextName nextString endObject com.google.gson.stream.JsonReader
+SharedPreferences getString android.content.SharedPreferences
+Intent addFlags setFlags android.content.Intent
+HashMap put java.util.HashMap
+PrintStream println java.io.PrintStream
+IOUtils closeQuietly org.apache.commons.io.IOUtils
+Gson fromJson toJson com.google.gson.Gson
+StringWriter getBuffer java.io.StringWriter
+GsonBuilder create com.google.gson.GsonBuilder
+Locale setDefault java.util.Locale
+Configuration setLocale setLayoutDirection org.hibernate.cfg.Configuration
+JarEntry getName java.util.jar.JarEntry
+List toArray size add java.util.List
+Enumeration hasMoreElements nextElement java.util.Enumeration
+JarFile entries close java.util.jar.JarFile
+PrintStream println java.io.PrintStream
+PrintStream println java.io.PrintStream
+Map entrySet java.util.Map
+Entry getKey getValue java.util.Map.Entry
+PrintStream println java.io.PrintStream
+List add contains java.util.List
+Assert assertTrue assertFalse junit.framework.Assert
+Log e i org.apache.commons.logging.Log
+ServletRequest getParameter javax.servlet.ServletRequest
+FilterChain doFilter javax.servlet.FilterChain
+TextView setText android.widget.TextView
+Random nextInt java.util.Random
+FileOutputStream write close java.io.FileOutputStream
+IOException printStackTrace java.io.IOException
+FileNotFoundException printStackTrace java.io.FileNotFoundException
+Calendar getInstance get java.util.Calendar
+PrintStream println java.io.PrintStream
+List size get java.util.List
+Lists newArrayList com.google.common.collect.Lists
+Splitter split com.google.common.base.Splitter
+Map get java.util.Map
+Button setOnClickListener javafx.scene.control.Button
+PrintStream println java.io.PrintStream
+Map keySet get java.util.Map
+IOException printStackTrace java.io.IOException
+PrintStream println java.io.PrintStream
+Multiset count com.google.common.collect.Multiset
+Map entrySet put java.util.Map
+Entry getValue getKey java.util.Map.Entry
+HashMap put entrySet java.util.HashMap
+Multimap put entries keySet get com.google.common.collect.Multimap
+Collections sort java.util.Collections
+PrintStream println java.io.PrintStream
+Optional isPresent get com.google.common.base.Optional
+StringUtils trimToEmpty org.apache.commons.lang3.StringUtils
+PrintStream println java.io.PrintStream
+ArrayList add java.util.ArrayList
+OutputStream write java.io.OutputStream
+TextView setEnabled setVisibility android.widget.TextView
+Set contains java.util.Set
+Log d org.apache.commons.logging.Log
+IOException getMessage java.io.IOException
+Intent getAction getParcelableExtra android.content.Intent
+ArrayList get clear add java.util.ArrayList
+InputStream read java.io.InputStream
+ArrayList add get java.util.ArrayList
+ByteArrayOutputStream toString java.io.ByteArrayOutputStream
+Button setOnClickListener setEnabled javafx.scene.control.Button
+OutputStream flush close java.io.OutputStream
+ImageView setImageBitmap android.widget.ImageView
+IOException printStackTrace getMessage java.io.IOException
+Log e org.apache.commons.logging.Log
+File exists getName java.io.File
+InputStream close java.io.InputStream
+HashMap put get java.util.HashMap
+JsonWriter beginArray beginObject value name endArray endObject close com.google.gson.stream.JsonWriter
+JsonReader beginArray hasNext skipValue nextInt nextString endArray close beginObject endObject com.google.gson.stream.JsonReader
+InputStream close java.io.InputStream
+Intent getStringExtra android.content.Intent
+ArrayList add java.util.ArrayList
+PrintStream println java.io.PrintStream
+ResultSet getObject java.sql.ResultSet
+PreparedStatement setNull setString java.sql.PreparedStatement
+Calendar getInstance setTimeInMillis java.util.Calendar
+DateFormat format java.text.DateFormat
+List add java.util.List
+ImageView setImageResource setLayoutParams setScaleType android.widget.ImageView
+Attribute get javax.naming.directory.Attribute
+List size get java.util.List
+Attributes put get javax.naming.directory.Attributes
+PrintStream println java.io.PrintStream
+ImageView getDrawable setImageDrawable android.widget.ImageView
+List add java.util.List
+Scanner hasNext nextLine java.util.Scanner
+FileNotFoundException printStackTrace java.io.FileNotFoundException
+List size java.util.List
+HttpServletRequest getAttribute javax.servlet.http.HttpServletRequest
+HttpURLConnection setReadTimeout setConnectTimeout setRequestMethod connect getResponseCode getInputStream disconnect java.net.HttpURLConnection
+List add java.util.List
+JSONObject getJSONObject getJSONArray getString org.json.JSONObject
+Charset forName java.nio.charset.Charset
+URL openConnection java.net.URL
+Log e org.apache.commons.logging.Log
+BufferedReader readLine java.io.BufferedReader
+JSONArray length getJSONObject get org.json.JSONArray
+InputStream close java.io.InputStream
+Iterator hasNext next java.util.Iterator
+Log i e org.apache.commons.logging.Log
+ArrayList size add java.util.ArrayList
+TextView setText android.widget.TextView
+TextView setText android.widget.TextView
+Intent putExtra getStringArrayListExtra android.content.Intent
+ArrayList get java.util.ArrayList
+IOUtils copy org.apache.commons.io.IOUtils
+FileOutputStream close java.io.FileOutputStream
+Log info error org.apache.commons.logging.Log
+File exists mkdir java.io.File
+Map put java.util.Map
+PasswordCallback getPassword javax.security.auth.callback.PasswordCallback
+NameCallback getName javax.security.auth.callback.NameCallback
+Map get java.util.Map
+Set contains add size java.util.Set
+IOException toString java.io.IOException
+Subject getPrincipals javax.security.auth.Subject
+DefaultHttpClient execute org.apache.http.impl.client.DefaultHttpClient
+ClientProtocolException printStackTrace org.apache.http.client.ClientProtocolException
+HttpEntity getContent org.apache.http.HttpEntity
+IOException printStackTrace java.io.IOException
+ArrayList add java.util.ArrayList
+JSONException toString org.json.JSONException
+JSONObject getString org.json.JSONObject
+HttpResponse getEntity org.apache.http.HttpResponse
+Log e org.apache.commons.logging.Log
+BufferedReader readLine java.io.BufferedReader
+UnsupportedEncodingException printStackTrace java.io.UnsupportedEncodingException
+JSONArray length getJSONObject org.json.JSONArray
+InputStream close java.io.InputStream
+PrintStream println java.io.PrintStream
+List stream java.util.List
+Stream collect java.util.stream.Stream
+ImmutableList of com.google.common.collect.ImmutableList
+SQLException printStackTrace java.sql.SQLException
+SessionFactory openSession org.hibernate.SessionFactory
+Session doWork doReturningWork getSessionFactory org.hibernate.Session
+Button setOnClickListener javafx.scene.control.Button
+PrintStream println java.io.PrintStream
+Assert assertTrue org.junit.Assert
+Button setId setText setTextSize setOnClickListener javafx.scene.control.Button
+ArrayList add toString java.util.ArrayList
+LocalDate toDate org.joda.time.LocalDate
+TextView setCompoundDrawables setCompoundDrawablePadding setText android.widget.TextView
+SharedPreferences getBoolean android.content.SharedPreferences
+Document getElementById get com.google.gwt.dom.client.Document
+List size java.util.List
+Objects equals java.util.Objects
+PrintStream printf java.io.PrintStream
+List add java.util.List
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+MediaPlayer create start javafx.scene.media.MediaPlayer
+FlexTable setCellSpacing setWidget com.google.gwt.user.client.ui.FlexTable
+RootPanel add get com.google.gwt.user.client.ui.RootPanel
+Random nextInt java.util.Random
+PrintStream println java.io.PrintStream
+ImageView setId setImageBitmap getId android.widget.ImageView
+List add get java.util.List
+HashMap put java.util.HashMap
+List add java.util.List
+Log i org.apache.commons.logging.Log
+SQLException printStackTrace java.sql.SQLException
+Properties getProperty load java.util.Properties
+Connection createStatement close java.sql.Connection
+Gson toJson com.google.gson.Gson
+Statement close java.sql.Statement
+IOException printStackTrace java.io.IOException
+JsonWriter setIndent close com.google.gson.stream.JsonWriter
+GsonBuilder create com.google.gson.GsonBuilder
+DriverManager getConnection java.sql.DriverManager
+InputStream close java.io.InputStream
+Enumeration hasMoreElements nextElement java.util.Enumeration
+Configuration buildSessionFactory configure org.hibernate.cfg.Configuration
+WebView loadUrl getSettings setWebViewClient setDownloadListener setWebChromeClient javafx.scene.web.WebView
+Button setText javafx.scene.control.Button
+PrintStream println java.io.PrintStream
+List add java.util.List
+Arrays toString java.util.Arrays
+BufferedReader readLine java.io.BufferedReader
+Logger info java.util.logging.Logger
+Stack push peek pop java.util.Stack
+List add java.util.List
+TextView setText android.widget.TextView
+Map put java.util.Map
+ImageView setOnClickListener setImageResource android.widget.ImageView
+MediaPlayer create start isPlaying stop setLooping javafx.scene.media.MediaPlayer
+TextView setText android.widget.TextView
+Random nextInt java.util.Random
+Button setText javafx.scene.control.Button
+List contains add get java.util.List
+ImageView setImageResource android.widget.ImageView
+ArrayList add java.util.ArrayList
+Map get java.util.Map
+ArrayList add java.util.ArrayList
+PrintStream println java.io.PrintStream
+List add java.util.List
+ByteArrayInputStream close java.io.ByteArrayInputStream
+ByteArrayOutputStream toByteArray close java.io.ByteArrayOutputStream
+ImageIO read write javax.imageio.ImageIO
+BASE64Decoder decodeBuffer sun.misc.BASE64Decoder
+IOException printStackTrace java.io.IOException
+BASE64Encoder encode sun.misc.BASE64Encoder
+Button setClickable javafx.scene.control.Button
+FileNotFoundException printStackTrace java.io.FileNotFoundException
+Intent putExtra android.content.Intent
+TextView setText android.widget.TextView
+ArrayList get java.util.ArrayList
+Intent getIntExtra getBooleanExtra android.content.Intent
+Log d org.apache.commons.logging.Log
+TextView setText android.widget.TextView
+ImageView setImageResource android.widget.ImageView
+TextView append android.widget.TextView
+Intent setData getExtras android.content.Intent
+List size get java.util.List
+StringUtils leftPad org.apache.commons.lang.StringUtils
+Map put java.util.Map
+ArrayList add java.util.ArrayList
+PrintStream println java.io.PrintStream
+PrintStream println java.io.PrintStream
+JsonArray addAll add com.google.gson.JsonArray
+Arrays asList java.util.Arrays
+Button setOnClickListener getLayoutParams setLayoutParams javafx.scene.control.Button
+ResultSet getArray java.sql.ResultSet
+PreparedStatement setArray setNull java.sql.PreparedStatement
+IOException getMessage java.io.IOException
+BufferedReader readLine java.io.BufferedReader
+InputStream close java.io.InputStream
+List isEmpty iterator java.util.List
+OutputStream flush close java.io.OutputStream
+Log e org.apache.commons.logging.Log
+Intent setDataAndType android.content.Intent
+File getName java.io.File
+InputStream close java.io.InputStream
+WebView loadUrl javafx.scene.web.WebView
+PrintStream println java.io.PrintStream
+List get java.util.List
+Gson fromJson com.google.gson.Gson
+PrintStream println java.io.PrintStream
+List iterator add java.util.List
+Iterator hasNext next java.util.Iterator
+Set iterator java.util.Set
+HashMap keySet get put java.util.HashMap
+Joiner join on com.google.common.base.Joiner
+Paths get java.nio.file.Paths
+Files copy java.nio.file.Files
+Path resolve toUri java.nio.file.Path
+ArrayList add java.util.ArrayList
+HttpURLConnection setRequestMethod getInputStream java.net.HttpURLConnection
+NodeList item getLength org.w3c.dom.NodeList
+Element getChildNodes org.w3c.dom.Element
+Document getDocumentElement org.w3c.dom.Document
+URL openConnection java.net.URL
+Node getChildNodes getNodeName getTextContent org.w3c.dom.Node
+DocumentBuilder parse javax.xml.parsers.DocumentBuilder
+DocumentBuilderFactory newInstance newDocumentBuilder javax.xml.parsers.DocumentBuilderFactory
+ArrayList add java.util.ArrayList
+File setExecutable java.io.File
+TextView setText android.widget.TextView
+PrintStream println java.io.PrintStream
+TextView setText append android.widget.TextView
+Intent putExtra android.content.Intent
+IOException printStackTrace java.io.IOException
+InputStream read java.io.InputStream
+TextView setLayoutParams setText android.widget.TextView
+WebView setWebViewClient getSettings loadUrl canGoBack goBack javafx.scene.web.WebView
+Button setText javafx.scene.control.Button
+Log v org.apache.commons.logging.Log
+ServletContext addListener addFilter addServlet javax.servlet.ServletContext
+XStream toXML com.thoughtworks.xstream.XStream
+TreeMap putAll keySet java.util.TreeMap
+Set toArray java.util.Set
+HashMap put java.util.HashMap
+Button setOnClickListener javafx.scene.control.Button
+MenuItem getItemId java.awt.MenuItem
+Session executeAsync org.hibernate.classic.Session
+StringWriter toString java.io.StringWriter
+Button setOnClickListener javafx.scene.control.Button
+TextView setTypeface android.widget.TextView
+Collections shuffle java.util.Collections
+ArrayList add java.util.ArrayList
+Map put java.util.Map
+File exists mkdirs getAbsolutePath java.io.File
+BufferedOutputStream write close java.io.BufferedOutputStream
+PrintStream println java.io.PrintStream
+Future isDone java.util.concurrent.Future
+PrintStream println java.io.PrintStream
+Intent putExtra android.content.Intent
+Assert assertEquals org.junit.Assert
+List size get add java.util.List
+Map values java.util.Map
+TextView setText android.widget.TextView
+ArrayList get java.util.ArrayList
+PrintWriter println java.io.PrintWriter
+OutputStream write flush java.io.OutputStream
+Socket getOutputStream getInputStream java.net.Socket
+HttpServletResponse setContentType addHeader getWriter addCookie javax.servlet.http.HttpServletResponse
+BufferedReader readLine java.io.BufferedReader
+Cookie setPath setSecure setHttpOnly setDomain javax.servlet.http.Cookie
+Button setClickable setOnClickListener javafx.scene.control.Button
+HashMap put java.util.HashMap
+Intent getStringExtra android.content.Intent
+ArrayList add java.util.ArrayList
+List add java.util.List
+Iterator hasNext next java.util.Iterator
+Logger debug org.apache.log4j.Logger
+Button setOnClickListener javafx.scene.control.Button
+PrintStream println java.io.PrintStream
+Properties load java.util.Properties
+IOException getMessage java.io.IOException
+Arrays asList java.util.Arrays
+HashSet remove java.util.HashSet
+TreeMap get put entrySet java.util.TreeMap
+Iterator hasNext next java.util.Iterator
+Entry getKey getValue java.util.Map.Entry
+Set iterator java.util.Set
+Log d org.apache.commons.logging.Log
+Log e org.apache.commons.logging.Log
+Button setOnClickListener javafx.scene.control.Button
+TextView getText android.widget.TextView
+Intent putExtras android.content.Intent
+JsonElement getAsJsonArray getAsInt getAsJsonObject com.google.gson.JsonElement
+PrintStream println java.io.PrintStream
+JsonObject get com.google.gson.JsonObject
+Gson fromJson com.google.gson.Gson
+GsonBuilder registerTypeAdapter create com.google.gson.GsonBuilder
+ArrayList add java.util.ArrayList
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+PrintWriter print println java.io.PrintWriter
+Arrays toString java.util.Arrays
+Strings isNullOrEmpty com.google.common.base.Strings
+Iterables filter getOnlyElement com.google.common.collect.Iterables
+ImmutableList size subList get com.google.common.collect.ImmutableList
+Builder build addAll com.google.common.collect.ImmutableList.Builder
+Joiner join com.google.common.base.Joiner
+PrintStream println java.io.PrintStream
+Node getValue org.dom4j.Node
+Assert assertEquals org.junit.Assert
+Calendar getInstance getTime setTime add java.util.Calendar
+TextView setText setOnClickListener android.widget.TextView
+Date toString java.util.Date
+ImageView setOnClickListener android.widget.ImageView
+SimpleDateFormat format parse java.text.SimpleDateFormat
+Log e org.apache.commons.logging.Log
+ParseException printStackTrace java.text.ParseException
+ArrayList add java.util.ArrayList
+MenuItem getItemId java.awt.MenuItem
+Log w org.apache.commons.logging.Log
+HttpURLConnection connect getResponseCode java.net.HttpURLConnection
+Button setOnClickListener javafx.scene.control.Button
+InetAddress getByName java.net.InetAddress
+DatagramSocket send java.net.DatagramSocket
+PrintStream println java.io.PrintStream
+Log d e org.apache.commons.logging.Log
+IOException printStackTrace java.io.IOException
+Date getTime java.util.Date
+SimpleDateFormat parse java.text.SimpleDateFormat
+Arrays asList java.util.Arrays
+Map values java.util.Map
+Button setOnClickListener javafx.scene.control.Button
+Calendar getInstance get java.util.Calendar
+TextView setText android.widget.TextView
+Log i org.apache.commons.logging.Log
+IOException printStackTrace java.io.IOException
+BufferedReader readLine java.io.BufferedReader
+FileNotFoundException printStackTrace java.io.FileNotFoundException
+InputStream close java.io.InputStream
+JSONException getMessage org.json.JSONException
+MenuItem getItemId java.awt.MenuItem
+JSONObject put toString org.json.JSONObject
+TextView setText android.widget.TextView
+Query setFilterById org.hibernate.Query
+Intent getLongExtra android.content.Intent
+File getName getAbsolutePath length java.io.File
+TextView setText setOnTouchListener android.widget.TextView
+Unsafe allocateInstance sun.misc.Unsafe
+List size get java.util.List
+HttpURLConnection setUseCaches setDoOutput setDoInput setRequestProperty getOutputStream getResponseCode getResponseMessage getInputStream disconnect java.net.HttpURLConnection
+PrintWriter append flush close java.io.PrintWriter
+OutputStream write flush java.io.OutputStream
+List add java.util.List
+URL openConnection java.net.URL
+URLConnection guessContentTypeFromName java.net.URLConnection
+Log v org.apache.commons.logging.Log
+FileInputStream read close java.io.FileInputStream
+BufferedReader readLine close java.io.BufferedReader
+File getName getPath java.io.File
+HashCodeBuilder append hashCode org.apache.commons.lang3.builder.HashCodeBuilder
+EqualsBuilder append isEquals org.apache.commons.lang3.builder.EqualsBuilder
+Transaction commit org.hibernate.Transaction
+PrintStream println java.io.PrintStream
+SessionFactory openSession close org.hibernate.SessionFactory
+Session beginTransaction save close org.hibernate.Session
+Lists newArrayList com.google.common.collect.Lists
+Locale forLanguageTag java.util.Locale
+Splitter split on com.google.common.base.Splitter
+Collections sort java.util.Collections
+Joiner join on com.google.common.base.Joiner
+PrintStream println java.io.PrintStream
+Container add java.awt.Container
+MouseEvent getX getY java.awt.event.MouseEvent
+File exists getPath java.io.File
+List get java.util.List
+TextView setBackgroundColor setTextColor setText android.widget.TextView
+Button setOnClickListener javafx.scene.control.Button
+HttpURLConnection setConnectTimeout setReadTimeout setInstanceFollowRedirects getInputStream disconnect java.net.HttpURLConnection
+OutputStream close write java.io.OutputStream
+Iterator hasNext next remove java.util.Iterator
+URL openConnection java.net.URL
+ImageView setImageBitmap setImageResource android.widget.ImageView
+Set iterator java.util.Set
+IOException printStackTrace java.io.IOException
+FileInputStream close java.io.FileInputStream
+File exists listFiles delete java.io.File
+Map get containsKey put size entrySet java.util.Map
+Entry getValue java.util.Map.Entry
+Log i org.apache.commons.logging.Log
+InputStream read java.io.InputStream
+PrintStream println java.io.PrintStream
+List size get java.util.List
+Gson fromJson com.google.gson.Gson
+GsonBuilder create com.google.gson.GsonBuilder
+Log e i org.apache.commons.logging.Log
+Intent setComponent getExtras getStringExtra putExtra android.content.Intent
+Arrays asList java.util.Arrays
+Optional isPresent get com.google.common.base.Optional
+Set contains java.util.Set
+ImageView setImageResource android.widget.ImageView
+Random nextInt java.util.Random
+TextView setText android.widget.TextView
+ArrayList add java.util.ArrayList
+PrintStream print println java.io.PrintStream
+List size get java.util.List
+SessionFactory openSession org.hibernate.SessionFactory
+Session beginTransaction createQuery close org.hibernate.Session
+Scanner nextInt java.util.Scanner
+Query list org.hibernate.Query
+Configuration configure buildSessionFactory org.hibernate.cfg.Configuration
+PrintStream println java.io.PrintStream
+Logger error info org.apache.log4j.Logger
+SQLException getMessage java.sql.SQLException
+Properties setProperty java.util.Properties
+Connection createStatement close java.sql.Connection
+ResultSet next getInt close java.sql.ResultSet
+Statement executeQuery java.sql.Statement
+Executors newFixedThreadPool java.util.concurrent.Executors
+ExecutorService execute shutdown isTerminated java.util.concurrent.ExecutorService
+Signature getInstance initSign update sign initVerify verify java.security.Signature
+TextView setText android.widget.TextView
+HashMap get put java.util.HashMap
+Log i org.apache.commons.logging.Log
+Intent putExtra android.content.Intent
+ArrayList get java.util.ArrayList
+MediaPlayer create start stop javafx.scene.media.MediaPlayer
+Button setOnClickListener javafx.scene.control.Button
+TextView setText android.widget.TextView
+Intent putExtras getExtras android.content.Intent
+Button setEnabled getId setText getText setOnClickListener javafx.scene.control.Button
+ArrayList get set add java.util.ArrayList
+StringUtils repeat overlay org.apache.commons.lang3.StringUtils
+MenuItem getItemId java.awt.MenuItem
+ArrayList add java.util.ArrayList
+GridLayout setBackgroundColor setRowCount setColumnCount setAlignmentMode setLayoutParams addView java.awt.GridLayout
+Button setId setText javafx.scene.control.Button
+Log d org.apache.commons.logging.Log
+PrintStream print close java.io.PrintStream
+TextView append android.widget.TextView
+FileOutputStream close java.io.FileOutputStream
+Log i org.apache.commons.logging.Log
+IOException printStackTrace java.io.IOException
+File getAbsolutePath mkdirs java.io.File
+FileNotFoundException printStackTrace java.io.FileNotFoundException
+JsonElement getAsJsonObject com.google.gson.JsonElement
+PrintStream println java.io.PrintStream
+JsonObject getAsJsonArray com.google.gson.JsonObject
+Gson fromJson com.google.gson.Gson
+JsonParser parse com.google.gson.JsonParser
+Intent putExtra android.content.Intent
+PrintStream println java.io.PrintStream
+List add java.util.List
+Map keySet get put java.util.Map
+IOException printStackTrace java.io.IOException
+BufferedReader readLine java.io.BufferedReader
+StringUtils isBlank org.apache.commons.lang3.StringUtils
+Path quadTo javafx.scene.shape.Path
+ArrayList add java.util.ArrayList
+ImageView getDrawable setImageDrawable android.widget.ImageView
+AtomicReference get set java.util.concurrent.atomic.AtomicReference
+OutputStream write flush close java.io.OutputStream
+IOException printStackTrace java.io.IOException
+File exists mkdir java.io.File
+InputStream read close java.io.InputStream
+List add java.util.List
+Collections singletonList java.util.Collections
+Log debug org.apache.commons.logging.Log
+DriverManager getConnection java.sql.DriverManager
+List add java.util.List
+Collections sort java.util.Collections
+JsonElement getAsJsonObject getAsJsonArray getAsString com.google.gson.JsonElement
+PrintStream println java.io.PrintStream
+JsonObject get com.google.gson.JsonObject
+JsonArray size get com.google.gson.JsonArray
+JsonParser parse com.google.gson.JsonParser
+GsonBuilder create com.google.gson.GsonBuilder
+Canvas save restore java.awt.Canvas
+PrintStream println java.io.PrintStream
+Instant now java.time.Instant
+PrintStream println java.io.PrintStream
+Random nextInt java.util.Random
+Arrays asList java.util.Arrays
+Matcher matches group java.util.regex.Matcher
+NamingException getMessage javax.naming.NamingException
+Pattern matcher java.util.regex.Pattern
+Hashtable put java.util.Hashtable
+SearchControls setSearchScope javax.naming.directory.SearchControls
+ArrayList add java.util.ArrayList
+PrintStream println java.io.PrintStream
+PrintStream println java.io.PrintStream
+PrintStream println java.io.PrintStream
+List size java.util.List
+Assert assertEquals org.junit.Assert
+Objects requireNonNull java.util.Objects
+PrintStream println java.io.PrintStream
+List size java.util.List
+Stream of java.util.stream.Stream
+List size java.util.List
+Assert assertEquals org.junit.Assert
+Calendar getInstance get java.util.Calendar
+DateFormat is24HourFormat java.text.DateFormat
+PrintStream println java.io.PrintStream
+SharedPreferences getBoolean getString getInt edit android.content.SharedPreferences
+Map put java.util.Map
+ClientProtocolException printStackTrace org.apache.http.client.ClientProtocolException
+JSONException printStackTrace org.json.JSONException
+JSONObject toString getString org.json.JSONObject
+HttpClient execute org.apache.http.client.HttpClient
+HttpResponse getEntity org.apache.http.HttpResponse
+IOException printStackTrace java.io.IOException
+JSONArray getJSONObject org.json.JSONArray
+EntityUtils toString org.apache.http.util.EntityUtils
+List add java.util.List
+PrintStream println java.io.PrintStream
+Canvas drawLine java.awt.Canvas
+PrintStream println java.io.PrintStream
+Gson toJson com.google.gson.Gson
+Random nextInt java.util.Random
+ArrayList add java.util.ArrayList
+IOException printStackTrace getMessage java.io.IOException
+Log d org.apache.commons.logging.Log
+PrintStream println java.io.PrintStream
+Assert assertTrue org.junit.Assert
+Button setOnClickListener javafx.scene.control.Button
+List add java.util.List
+JSONException printStackTrace org.json.JSONException
+JSONObject getJSONArray getInt org.json.JSONObject
+JSONArray length getJSONObject org.json.JSONArray
+Canvas drawCircle java.awt.Canvas
+List add java.util.List
+HttpServletRequest getAttribute setAttribute javax.servlet.http.HttpServletRequest
+SessionFactory openSession org.hibernate.SessionFactory
+Session beginTransaction save org.hibernate.Session
+Configuration configure buildSessionFactory org.hibernate.cfg.Configuration
+List of java.util.List
+PrintStream println java.io.PrintStream
+Assert assertEquals org.junit.Assert
+PrintStream println java.io.PrintStream
+Assert assertEquals org.junit.Assert
+ExpectedException expect org.junit.rules.ExpectedException
+Log d org.apache.commons.logging.Log
+Properties setProperty java.util.Properties
+SessionFactory openSession org.hibernate.SessionFactory
+Configuration setProperties buildSessionFactory configure org.hibernate.cfg.Configuration
+List add java.util.List
+Lists newArrayList com.google.common.collect.Lists
+Charset forName java.nio.charset.Charset
+URL toString java.net.URL
+Log info org.apache.commons.logging.Log
+URI toURL java.net.URI
+TextView setText android.widget.TextView
+ImageView setImageResource android.widget.ImageView
+PrintStream println java.io.PrintStream
+PrintStream println java.io.PrintStream
+IOException printStackTrace java.io.IOException
+BufferedReader readLine java.io.BufferedReader
+MenuItem getItemId java.awt.MenuItem
+TextView setText setTextSize setTextColor setCursorVisible setPadding setBackgroundColor setGravity setLayoutParams android.widget.TextView
+TextView setX setY setText setTextColor setTextSize setLayoutParams android.widget.TextView
+PrintStream println java.io.PrintStream
+JSONObject getJSONObject getInt org.json.JSONObject
+Log isErrorEnabled error org.apache.commons.logging.Log
+List add java.util.List
+IntStream mapToObj range java.util.stream.IntStream
+Stream map java.util.stream.Stream
+Collectors toList java.util.stream.Collectors
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+OutputStream write flush java.io.OutputStream
+List isEmpty toString java.util.List
+Log v org.apache.commons.logging.Log
+PrintStream println java.io.PrintStream
+List stream java.util.List
+Arrays asList java.util.Arrays
+Stream forEach java.util.stream.Stream
+BufferedReader lines java.io.BufferedReader
+Assert assertFalse org.junit.Assert
+File listFiles java.io.File
+PrintStream println java.io.PrintStream
+List toArray java.util.List
+Iterator hasNext next java.util.Iterator
+List size iterator get remove add set java.util.List
+Iterator hasNext next remove java.util.Iterator
+ScheduledExecutorService schedule java.util.concurrent.ScheduledExecutorService
+Button setOnClickListener javafx.scene.control.Button
+TextView setText android.widget.TextView
+ImageView setImageResource android.widget.ImageView
+Intent putExtra createChooser android.content.Intent
+TextView setText android.widget.TextView
+Calendar getTimeInMillis getInstance java.util.Calendar
+TextView setText android.widget.TextView
+Canvas drawLine drawText drawRect java.awt.Canvas
+SharedPreferences edit getString android.content.SharedPreferences
+Log i v org.apache.commons.logging.Log
+Intent getAction getData android.content.Intent
+IOException getMessage java.io.IOException
+File getAbsolutePath createTempFile delete isDirectory mkdirs java.io.File
+ArrayList add toArray size java.util.ArrayList
+ServletContextEvent getServletContext javax.servlet.ServletContextEvent
+ServletContext setAttribute javax.servlet.ServletContext
+AnnotationConfiguration addAnnotatedClass getProperties buildSessionFactory configure org.hibernate.cfg.AnnotationConfiguration
+Button setOnClickListener javafx.scene.control.Button
+Button setOnClickListener javafx.scene.control.Button
+DefaultHttpClient execute org.apache.http.impl.client.DefaultHttpClient
+TextView setText android.widget.TextView
+HttpEntity getContent org.apache.http.HttpEntity
+HttpResponse getEntity org.apache.http.HttpResponse
+Log i org.apache.commons.logging.Log
+BufferedReader readLine java.io.BufferedReader
+ToStringBuilder append org.apache.commons.lang3.builder.ToStringBuilder
+Intent putExtras android.content.Intent
+TextView setOnClickListener android.widget.TextView
+PrintStream print java.io.PrintStream
+TextView setText android.widget.TextView
+SharedPreferences getBoolean getString android.content.SharedPreferences
+HttpPost setEntity org.apache.http.client.methods.HttpPost
+JSONException printStackTrace org.json.JSONException
+JSONObject getInt getString org.json.JSONObject
+TextView setText android.widget.TextView
+HttpClient execute org.apache.http.client.HttpClient
+HttpEntity getContent org.apache.http.HttpEntity
+HttpResponse getStatusLine getEntity org.apache.http.HttpResponse
+Log d e org.apache.commons.logging.Log
+BufferedReader readLine java.io.BufferedReader
+StatusLine getStatusCode org.apache.http.StatusLine
+JSONArray length getJSONObject org.json.JSONArray
+InputStream close java.io.InputStream
+Map put java.util.Map
+FileUtils readFileToString org.apache.commons.io.FileUtils
+IOException printStackTrace java.io.IOException
+File getName java.io.File
+ServerSocket accept java.net.ServerSocket
+DataInputStream readUTF close java.io.DataInputStream
+Socket getOutputStream getInputStream close java.net.Socket
+TextView setText android.widget.TextView
+DataOutputStream writeUTF flush java.io.DataOutputStream
+StringWriter toString java.io.StringWriter
+TextView setText android.widget.TextView
+List add contains java.util.List
+ArrayList contains add remove clear java.util.ArrayList
+WebView getSettings loadUrl javafx.scene.web.WebView
+Calendar add getTime java.util.Calendar
+SimpleDateFormat parse java.text.SimpleDateFormat
+Assert assertEquals assertTrue assertFalse org.junit.Assert
+PrintStream println java.io.PrintStream
+Set contains java.util.Set
+Log e org.apache.commons.logging.Log
+Button setOnClickListener javafx.scene.control.Button
+Arrays asList java.util.Arrays
+Configuration configure getProperties buildSessionFactory org.hibernate.cfg.Configuration
+PrintStream println java.io.PrintStream
+InetAddress getByName java.net.InetAddress
+PrintWriter println java.io.PrintWriter
+Socket getOutputStream java.net.Socket
+TextView setText android.widget.TextView
+IOException printStackTrace java.io.IOException
+Random nextInt java.util.Random
+Log d org.apache.commons.logging.Log
+UnknownHostException printStackTrace java.net.UnknownHostException
+Intent putExtra android.content.Intent
+Button setOnClickListener javafx.scene.control.Button
+MalformedURLException printStackTrace java.net.MalformedURLException
+URL openConnection java.net.URL
+URLConnection getInputStream java.net.URLConnection
+IOException printStackTrace java.io.IOException
+BufferedReader readLine java.io.BufferedReader
+List contains java.util.List
+Log e org.apache.commons.logging.Log
+Future get java.util.concurrent.Future
+Log error warn org.apache.commons.logging.Log
+ExecutorService submit java.util.concurrent.ExecutorService
+Executors newSingleThreadExecutor java.util.concurrent.Executors
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+TextView setText android.widget.TextView
+Intent getAction hasExtra getIntExtra android.content.Intent
+DefaultHttpClient execute org.apache.http.impl.client.DefaultHttpClient
+HttpEntity getContent org.apache.http.HttpEntity
+HttpResponse getEntity org.apache.http.HttpResponse
+BufferedReader readLine java.io.BufferedReader
+List add size get java.util.List
+WebView getSettings setWebViewClient loadUrl addJavascriptInterface javafx.scene.web.WebView
+Criteria setAccuracy org.hibernate.Criteria
+SharedPreferences edit getBoolean android.content.SharedPreferences
+VerticalPanel setSpacing setWidth add com.google.gwt.user.client.ui.VerticalPanel
+HorizontalPanel setSpacing add com.google.gwt.user.client.ui.HorizontalPanel
+GWT create com.google.gwt.core.client.GWT
+Log i org.apache.commons.logging.Log
+ArrayList add java.util.ArrayList
+Log i e d org.apache.commons.logging.Log
+ArrayList add java.util.ArrayList
+File getAbsolutePath java.io.File
+TextView setText android.widget.TextView
+TextView setText android.widget.TextView
+ImageView setImageDrawable android.widget.ImageView
+Intent addCategory setFlags setComponent android.content.Intent
+Collections sort java.util.Collections
+Logger error org.apache.log4j.Logger
+HashMap get java.util.HashMap
+IOException getMessage java.io.IOException
+Collections singletonList java.util.Collections
+StringUtils isEmpty org.apache.commons.lang3.StringUtils
+IOException printStackTrace java.io.IOException
+Log d org.apache.commons.logging.Log
+Log error org.apache.commons.logging.Log
+Assert assertEquals junit.framework.Assert
+LocalDate toString org.joda.time.LocalDate
+Logger isDebugEnabled debug org.apache.log4j.Logger
+List add java.util.List
+JsonElement getAsJsonArray com.google.gson.JsonElement
+PrintStream println java.io.PrintStream
+JsonArray iterator com.google.gson.JsonArray
+Iterator hasNext next java.util.Iterator
+Gson fromJson com.google.gson.Gson
+JsonParser parse com.google.gson.JsonParser
+PrintStream println java.io.PrintStream
+HttpServletRequest getHeader getRemoteAddr javax.servlet.http.HttpServletRequest
+Stream filter of java.util.stream.Stream
+Button setOnClickListener javafx.scene.control.Button
+TextView setEnabled toString setText android.widget.TextView
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+BufferedReader close java.io.BufferedReader
+GsonBuilder create com.google.gson.GsonBuilder
+IntStream boxed range java.util.stream.IntStream
+PrintStream println java.io.PrintStream
+Arrays stream java.util.Arrays
+Stream collect java.util.stream.Stream
+Map toString java.util.Map
+Robot keyPress keyRelease java.awt.Robot
+NetworkInterface getNetworkInterfaces getName getHardwareAddress java.net.NetworkInterface
+Collections list java.util.Collections
+List add java.util.List
+ResultSet getMetaData next getObject java.sql.ResultSet
+Map put java.util.Map
+ResultSetMetaData getColumnCount getColumnTypeName getColumnName java.sql.ResultSetMetaData
+DateFormat format java.text.DateFormat
+JsonWriter beginObject name value endObject com.google.gson.stream.JsonWriter
+JsonReader peek nextNull beginObject nextName endObject com.google.gson.stream.JsonReader
+PrintStream println java.io.PrintStream
+HttpURLConnection setRequestMethod setRequestProperty getResponseCode getInputStream java.net.HttpURLConnection
+HttpsURLConnection setRequestMethod setRequestProperty setDoOutput getOutputStream getResponseCode getInputStream javax.net.ssl.HttpsURLConnection
+DataOutputStream writeBytes flush close java.io.DataOutputStream
+URL openConnection java.net.URL
+BufferedReader readLine close java.io.BufferedReader
+JSONObject put org.json.JSONObject
+SimpleDateFormat format java.text.SimpleDateFormat
+Log d org.apache.commons.logging.Log
+PrintStream println java.io.PrintStream
+Transformer setOutputProperty transform javax.xml.transform.Transformer
+TransformerException printStackTrace javax.xml.transform.TransformerException
+BufferedWriter append flush close java.io.BufferedWriter
+URL openStream java.net.URL
+StringWriter toString java.io.StringWriter
+IOException printStackTrace java.io.IOException
+Reader read java.io.Reader
+FileNotFoundException printStackTrace java.io.FileNotFoundException
+List add java.util.List
+JSONObject getJSONArray getJSONObject has get org.json.JSONObject
+Element normalize org.w3c.dom.Element
+Charset forName java.nio.charset.Charset
+ParserConfigurationException printStackTrace javax.xml.parsers.ParserConfigurationException
+Document getDocumentElement org.w3c.dom.Document
+Map put entrySet java.util.Map
+SAXException printStackTrace org.xml.sax.SAXException
+DocumentBuilder parse javax.xml.parsers.DocumentBuilder
+Entry getKey getValue java.util.Map.Entry
+TransformerFactory newInstance newTransformer javax.xml.transform.TransformerFactory
+DocumentBuilderFactory newInstance newDocumentBuilder javax.xml.parsers.DocumentBuilderFactory
+JSONArray length get getJSONObject org.json.JSONArray
+InputStream close java.io.InputStream
+BufferedReader readLine java.io.BufferedReader
+Splitter split on com.google.common.base.Splitter
+Log e org.apache.commons.logging.Log
+ArrayList add trimToSize java.util.ArrayList
+TextView setText android.widget.TextView
+Matcher matches java.util.regex.Matcher
+Pattern compile matcher java.util.regex.Pattern
+PrintStream println print java.io.PrintStream
+XStream alias toXML fromXML com.thoughtworks.xstream.XStream
+Scanner nextLine java.util.Scanner
+File exists java.io.File
+ImageView setImageBitmap android.widget.ImageView
+Canvas drawARGB drawRoundRect drawBitmap java.awt.Canvas
+FileNotFoundException printStackTrace java.io.FileNotFoundException
+Joiner join on com.google.common.base.Joiner
+PrintStream println java.io.PrintStream
+List add java.util.List
+Iterator hasNext next remove java.util.Iterator
+PrintStream println print java.io.PrintStream
+List isEmpty get java.util.List
+Lists newArrayList com.google.common.collect.Lists
+IOException getMessage printStackTrace java.io.IOException
+BufferedReader readLine java.io.BufferedReader
+List size get java.util.List
+PrintStream println java.io.PrintStream
+List retainAll removeAll size get add java.util.List
+Iterator hasNext next java.util.Iterator
+CollectionUtils isNotEmpty org.apache.commons.collections.CollectionUtils
+Map put get keySet java.util.Map
+Set iterator java.util.Set
+JSONObject optString org.json.JSONObject
+Log i org.apache.commons.logging.Log
+Intent setFlags addFlags android.content.Intent
+Tab setTabListener javafx.scene.control.Tab
+Intent getAction getExtras android.content.Intent
+ArrayList size get java.util.ArrayList
+TextView setText getText android.widget.TextView
+Intent getAction getShortExtra getStringExtra android.content.Intent
+Introspector getBeanInfo java.beans.Introspector
+PropertyDescriptor getWriteMethod getName java.beans.PropertyDescriptor
+Map entrySet get put java.util.Map
+BeanInfo getPropertyDescriptors java.beans.BeanInfo
+Entry getKey getValue java.util.Map.Entry
+MessageFormat format java.text.MessageFormat
+PrintStream println java.io.PrintStream
+Map get java.util.Map
+InitialContext lookup javax.naming.InitialContext
+List add size java.util.List
+Properties put java.util.Properties
+Enumeration hasMoreElements nextElement java.util.Enumeration
+Log info error org.apache.commons.logging.Log
+Log isLoggable w org.apache.commons.logging.Log
+File getAbsolutePath exists getParentFile mkdirs java.io.File
+Button setOnClickListener javafx.scene.control.Button
+TextView setText setGravity setTypeface android.widget.TextView
+PrintStream println java.io.PrintStream
+Transaction commit rollback org.hibernate.Transaction
+List get java.util.List
+Session beginTransaction createQuery org.hibernate.Session
+Query list org.hibernate.Query
+ParseException printStackTrace java.text.ParseException
+List stream java.util.List
+Stream map java.util.stream.Stream
+Map values java.util.Map
+Set add java.util.Set
+Button setOnClickListener javafx.scene.control.Button
+TextView setText android.widget.TextView
+ServerSocket getLocalPort accept close java.net.ServerSocket
+PrintStream println java.io.PrintStream
+Socket getOutputStream getInputStream close java.net.Socket
+PrintStream println java.io.PrintStream
+Assert assertEquals org.junit.Assert
+ResultSet getObject java.sql.ResultSet
+PreparedStatement setNull setString java.sql.PreparedStatement
+AbstractMap get java.util.AbstractMap
+List get java.util.List
+PrintStream println java.io.PrintStream
+PrintStream println java.io.PrintStream
+PrintStream println java.io.PrintStream
+Session beginTransaction get close org.hibernate.classic.Session
+SessionFactory openSession org.hibernate.SessionFactory
+Configuration buildSessionFactory configure org.hibernate.cfg.Configuration
+HttpClient execute org.apache.http.client.HttpClient
+HttpEntity getContent org.apache.http.HttpEntity
+HttpResponse getEntity org.apache.http.HttpResponse
+Log e org.apache.commons.logging.Log
+BufferedReader readLine java.io.BufferedReader
+InputStream close java.io.InputStream
+List add java.util.List
+Assert assertTrue org.junit.Assert
+Arrays asList java.util.Arrays
+List size java.util.List
+Assert assertEquals assertFalse assertTrue org.junit.Assert
+HttpServletResponse addHeader setStatus javax.servlet.http.HttpServletResponse
+List add get size contains toArray java.util.List
+Map containsKey get put keySet java.util.Map
+Collection add java.util.Collection
+Map put java.util.Map
+HttpURLConnection connect getInputStream getContentLength java.net.HttpURLConnection
+MalformedURLException printStackTrace getMessage getStackTrace java.net.MalformedURLException
+URL openConnection java.net.URL
+FileOutputStream write close java.io.FileOutputStream
+Log v e org.apache.commons.logging.Log
+IOException printStackTrace getMessage getStackTrace java.io.IOException
+FileNotFoundException printStackTrace getMessage getStackTrace java.io.FileNotFoundException
+InputStream read java.io.InputStream
+List add java.util.List
+StringUtils isNotBlank org.apache.commons.lang3.StringUtils
+Log i org.apache.commons.logging.Log
+Intent getAction getExtras android.content.Intent
+MediaPlayer create start setOnCompletionListener release stop javafx.scene.media.MediaPlayer
+Path setFillType moveTo lineTo close javafx.scene.shape.Path
+Canvas drawPath java.awt.Canvas
+PrintStream println java.io.PrintStream
+List stream java.util.List
+Stream collect forEach map distinct flatMap filter java.util.stream.Stream
+Map get java.util.Map
+Set stream java.util.Set
+HttpURLConnection setRequestMethod setDoOutput connect disconnect java.net.HttpURLConnection
+PrintStream println java.io.PrintStream
+JSONException printStackTrace org.json.JSONException
+JSONObject getString org.json.JSONObject
+TextView setText android.widget.TextView
+URL openConnection openStream java.net.URL
+BufferedReader readLine close java.io.BufferedReader
+JSONArray getJSONObject org.json.JSONArray
+WebView loadData javafx.scene.web.WebView
+Intent getStringExtra android.content.Intent
+Connection createStatement java.sql.Connection
+ResultSet next getMetaData java.sql.ResultSet
+Statement executeQuery java.sql.Statement
+ResultSetMetaData getColumnCount java.sql.ResultSetMetaData
+PrintStream println java.io.PrintStream
+Assert assertEquals org.junit.Assert
+File isDirectory getAbsolutePath java.io.File
+PrintStream println java.io.PrintStream
+Calendar getInstance set getTimeInMillis java.util.Calendar
+WebView loadUrl getSettings setWebViewClient setWebChromeClient javafx.scene.web.WebView
+MenuItem getItemId java.awt.MenuItem
+BigDecimal valueOf getClass java.math.BigDecimal
+AtomicLong getClass java.util.concurrent.atomic.AtomicLong
+AtomicInteger getClass java.util.concurrent.atomic.AtomicInteger
+BigInteger valueOf getClass java.math.BigInteger
+Assert assertEquals org.junit.Assert
+Button setOnClickListener javafx.scene.control.Button
+Arrays asList java.util.Arrays
+Charset forName java.nio.charset.Charset
+Button setOnClickListener javafx.scene.control.Button
+Button setText javafx.scene.control.Button
+LinkedHashMap put java.util.LinkedHashMap
+List add get java.util.List
+Map get java.util.Map
+Collections sort java.util.Collections
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+FileInputStream close java.io.FileInputStream
+File getAbsolutePath java.io.File
+RandomAccessFile getChannel close java.io.RandomAccessFile
+ImageView setImageBitmap android.widget.ImageView
+IOException printStackTrace java.io.IOException
+FileChannel map close java.nio.channels.FileChannel
+File delete java.io.File
+FileNotFoundException printStackTrace java.io.FileNotFoundException
+MappedByteBuffer position java.nio.MappedByteBuffer
+SQLException printStackTrace java.sql.SQLException
+Connection createStatement java.sql.Connection
+ResultSet next getInt java.sql.ResultSet
+Statement executeQuery java.sql.Statement
+ImageView setImageBitmap android.widget.ImageView
+Intent getExtras android.content.Intent
+Button setOnClickListener javafx.scene.control.Button
+HttpURLConnection setConnectTimeout setReadTimeout setRequestMethod getResponseCode java.net.HttpURLConnection
+URL openConnection java.net.URL
+Log e org.apache.commons.logging.Log
+List contains add java.util.List
+Calendar getInstance setTime get getTime clear set add java.util.Calendar
+GregorianCalendar getInstance java.util.GregorianCalendar
+Map containsKey put get java.util.Map
+Log isDebugEnabled debug org.apache.commons.logging.Log
+SharedPreferences getInt edit android.content.SharedPreferences
+TextView setTag setOnClickListener setOnTouchListener setBackgroundColor getLeft getTop android.widget.TextView
+Log d org.apache.commons.logging.Log
+ArrayList get add size java.util.ArrayList
+JSONException printStackTrace org.json.JSONException
+TextView setText android.widget.TextView
+Log i org.apache.commons.logging.Log
+JSONArray length getString org.json.JSONArray
+MediaPlayer create reset release javafx.scene.media.MediaPlayer
+List isEmpty iterator java.util.List
+TextView setText android.widget.TextView
+ImageView setScaleType setImageResource android.widget.ImageView
+Intent getExtras android.content.Intent
+IOException printStackTrace java.io.IOException
+EntityManagerFactory unwrap javax.persistence.EntityManagerFactory
+Arrays asList java.util.Arrays
+List size java.util.List
+Map get java.util.Map
+Assert assertEquals assertTrue assertFalse org.junit.Assert
+DateFormat parse java.text.DateFormat
+Button setX setY javafx.scene.control.Button
+MenuItem getItemId java.awt.MenuItem
+Random nextInt java.util.Random
+Timer cancel purge java.util.Timer
+HashSet add java.util.HashSet
+List get java.util.List
+JSONObject put toString org.json.JSONObject
+TextView getViewTreeObserver getHeight android.widget.TextView
+Locale getDefault java.util.Locale
+DecimalFormat format java.text.DecimalFormat
+FileOutputStream write close java.io.FileOutputStream
+Intent putExtra android.content.Intent
+JSONArray put org.json.JSONArray
+TextView setText android.widget.TextView
+ImageView setImageResource android.widget.ImageView
+TextView setText getText android.widget.TextView
+ArrayList add java.util.ArrayList
+PrintStream println java.io.PrintStream
+Arrays asList java.util.Arrays
+PrintStream println java.io.PrintStream
+HttpURLConnection setRequestMethod setRequestProperty setUseCaches setAllowUserInteraction setConnectTimeout setReadTimeout setDoOutput getOutputStream getResponseCode connect getInputStream java.net.HttpURLConnection
+DataOutputStream writeBytes flush close java.io.DataOutputStream
+URL openConnection java.net.URL
+IOException printStackTrace java.io.IOException
+BufferedReader readLine close java.io.BufferedReader
+PrintStream println java.io.PrintStream
+IOException printStackTrace java.io.IOException
+BufferedReader readLine close java.io.BufferedReader
+FileReader close java.io.FileReader
+Button setText setOnClickListener javafx.scene.control.Button
+FileWriter close java.io.FileWriter
+Log d e org.apache.commons.logging.Log
+IOException printStackTrace getMessage getStackTrace java.io.IOException
+File getAbsolutePath exists createNewFile java.io.File
+FileNotFoundException getMessage getStackTrace java.io.FileNotFoundException
+List iterator java.util.List
+Iterator hasNext next java.util.Iterator
+JLabel setText javax.swing.JLabel
+Set add toArray remove java.util.Set
+BorderFactory createLineBorder javax.swing.BorderFactory
+Container add java.awt.Container
+JComboBox setSelectedItem setBackground getSelectedItem setSelectedIndex javax.swing.JComboBox
+LinkedList addLast removeLast java.util.LinkedList
+JFrame setDefaultCloseOperation getContentPane pack setVisible javax.swing.JFrame
+JPanel setBackground setLayout setBorder add javax.swing.JPanel
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+PrintStream println java.io.PrintStream
+Button setOnClickListener javafx.scene.control.Button
+ArrayList addAll size get java.util.ArrayList
+Arrays asList java.util.Arrays
+List stream java.util.List
+Stream collect java.util.stream.Stream
+Map get java.util.Map
+Assert assertEquals org.junit.Assert
+Collectors groupingBy counting java.util.stream.Collectors
+Function identity java.util.function.Function
+TextView setText android.widget.TextView
+Button getBackground getLeft getRight getTop getBottom getText javafx.scene.control.Button
+TextView setText android.widget.TextView
+PrintStream println java.io.PrintStream
+List add java.util.List
+Calendar getInstance get java.util.Calendar
+TextView setText android.widget.TextView
+PrintStream println java.io.PrintStream
+IOException printStackTrace java.io.IOException
+PrintStream println java.io.PrintStream
+NodeList getLength item org.w3c.dom.NodeList
+ParserConfigurationException getMessage javax.xml.parsers.ParserConfigurationException
+Document getElementsByTagName org.w3c.dom.Document
+DocumentBuilder parse javax.xml.parsers.DocumentBuilder
+SAXException getMessage org.xml.sax.SAXException
+Node hasChildNodes getFirstChild getNodeType getNodeValue getNextSibling org.w3c.dom.Node
+Log e org.apache.commons.logging.Log
+IOException getMessage java.io.IOException
+DocumentBuilderFactory newInstance newDocumentBuilder javax.xml.parsers.DocumentBuilderFactory
+UUID fromString java.util.UUID
+MenuItem getActionView getItemId getSubMenu java.awt.MenuItem
+TextView setText android.widget.TextView
+MessageDigest getInstance update digest java.security.MessageDigest
+SecretKeySpec toString javax.crypto.spec.SecretKeySpec
+Log d org.apache.commons.logging.Log
+Cipher getInstance init doFinal javax.crypto.Cipher
+Button setOnClickListener javafx.scene.control.Button
+SharedPreferences getString edit android.content.SharedPreferences
+HttpClients createDefault org.apache.http.impl.client.HttpClients
+Set add java.util.Set
+EnumSet noneOf java.util.EnumSet
+SharedPreferences getString edit android.content.SharedPreferences
+PrintStream println print java.io.PrintStream
+SessionFactory openSession close org.hibernate.SessionFactory
+Session setFlushMode flush isOpen close org.hibernate.Session
+Configuration configure addClass org.hibernate.cfg.Configuration
+HibernateException printStackTrace org.hibernate.HibernateException
+DefaultHttpClient execute org.apache.http.impl.client.DefaultHttpClient
+HttpPost setEntity org.apache.http.client.methods.HttpPost
+List add java.util.List
+HttpResponse getEntity org.apache.http.HttpResponse
+Intent putExtra android.content.Intent
+EntityUtils toString org.apache.http.util.EntityUtils
+Map values put get java.util.Map
+DateFormat getTimeInstance format java.text.DateFormat
+PrintStream println java.io.PrintStream
+Configuration configure getProperties buildSessionFactory org.hibernate.cfg.Configuration
+TextView setText android.widget.TextView
+Random nexInt java.util.Random
+ArrayList add get java.util.ArrayList
+Button setOnClickListener javafx.scene.control.Button
+TextView setText android.widget.TextView
+List get java.util.List
+Button setOnClickListener javafx.scene.control.Button
+MenuItem getItemId java.awt.MenuItem
+TextView setText android.widget.TextView
+ImageView setImageResource android.widget.ImageView
+PrintStream println java.io.PrintStream
+TreeMap putAll keySet java.util.TreeMap
+HashMap put java.util.HashMap
+PrintStream println java.io.PrintStream
+MenuItem getItemId java.awt.MenuItem
+Assert assertTrue org.junit.Assert
+Description getTestClass getMethodName org.junit.runner.Description
+HttpURLConnection setReadTimeout setConnectTimeout setRequestMethod setDoInput connect getInputStream java.net.HttpURLConnection
+TextView setText android.widget.TextView
+URL openConnection java.net.URL
+ImageView setImageBitmap android.widget.ImageView
+BufferedReader readLine java.io.BufferedReader
+ArrayList get add size java.util.ArrayList
+XmlPullParser setInput getEventType getName getAttributeValue next org.xmlpull.v1.XmlPullParser
+OutputStream write flush close java.io.OutputStream
+Log e org.apache.commons.logging.Log
+InputStream read close java.io.InputStream
+PrintStream println java.io.PrintStream
+File createTempFile getCanonicalPath java.io.File
+MenuItem getItemId java.awt.MenuItem
+PrintStream println java.io.PrintStream
+Gson toJson com.google.gson.Gson
+JsonWriter beginObject name value jsonValue endObject com.google.gson.stream.JsonWriter
+GsonBuilder create registerTypeAdapter com.google.gson.GsonBuilder
+Button setOnClickListener javafx.scene.control.Button
+List size java.util.List
+TextView setText android.widget.TextView
+List size get add java.util.List
+Arrays copyOf java.util.Arrays
+Logger isDebugEnabled debug info org.apache.log4j.Logger
+SQLException getMessage java.sql.SQLException
+ResultSet wasNull getTimestamp java.sql.ResultSet
+Timestamp getTime getNanos java.sql.Timestamp
+DateTime getMillis org.joda.time.DateTime
+PreparedStatement setNull java.sql.PreparedStatement
+List add java.util.List
+List remove java.util.List
+Arrays asList java.util.Arrays
+Button setText setId setOnClickListener javafx.scene.control.Button
+TextView setText android.widget.TextView
+TextView isClickable setOnLongClickListener android.widget.TextView
+List isEmpty size get add java.util.List
+URL toURI java.net.URL
+URI toURL java.net.URI
+Collections emptyList java.util.Collections
+File toURI java.io.File
+HttpPost setEntity org.apache.http.client.methods.HttpPost
+JSONException getLocalizedMessage org.json.JSONException
+JSONObject getString getInt org.json.JSONObject
+TextView setText android.widget.TextView
+SharedPreferences edit android.content.SharedPreferences
+HttpClient execute org.apache.http.client.HttpClient
+HttpEntity getContent org.apache.http.HttpEntity
+HttpResponse getEntity org.apache.http.HttpResponse
+Log e org.apache.commons.logging.Log
+IOException getLocalizedMessage java.io.IOException
+BufferedReader readLine java.io.BufferedReader
+Assert assertEquals org.junit.Assert
+HttpServletRequest getParameter javax.servlet.http.HttpServletRequest
+TextView append android.widget.TextView
+Intent getStringExtra android.content.Intent
+PrintStream println java.io.PrintStream
+Locale setDefault java.util.Locale
+Configuration setLocale setLayoutDirection org.hibernate.cfg.Configuration
+JsonElement getAsJsonObject getAsString com.google.gson.JsonElement
+JsonObject get com.google.gson.JsonObject
+Intent putExtra android.content.Intent
+List add java.util.List
+PrintStream println java.io.PrintStream
+JSONException printStackTrace org.json.JSONException
+JSONObject get org.json.JSONObject
+Charset forName java.nio.charset.Charset
+StringEscapeUtils unescapeJson org.apache.commons.lang3.StringEscapeUtils
+JSONException printStackTrace org.json.JSONException
+JSONObject getJSONObject getJSONArray getString org.json.JSONObject
+JSONArray length getJSONObject org.json.JSONArray
+ArrayList add java.util.ArrayList
+PrintStream println java.io.PrintStream
+MediaPlayer create javafx.scene.media.MediaPlayer
+TextView setText android.widget.TextView
+FileOutputStream write close java.io.FileOutputStream
+IOException printStackTrace java.io.IOException
+Log e org.apache.commons.logging.Log
+File getAbsolutePath mkdirs getPath java.io.File
+PrintStream print println java.io.PrintStream
+Assert assertEquals org.junit.Assert
+Set remove java.util.Set
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+Map put get java.util.Map
+GsonBuilder registerTypeAdapterFactory create com.google.gson.GsonBuilder
+JsonReader peek nextNull nextString com.google.gson.stream.JsonReader
+MenuItem getItemId java.awt.MenuItem
+ArrayList add get java.util.ArrayList
+PrintStream println java.io.PrintStream
+DefaultHttpClient execute org.apache.http.impl.client.DefaultHttpClient
+ClientProtocolException printStackTrace org.apache.http.client.ClientProtocolException
+JSONException toString org.json.JSONException
+HttpEntity getContent org.apache.http.HttpEntity
+HttpResponse getEntity org.apache.http.HttpResponse
+IOException printStackTrace java.io.IOException
+Log e org.apache.commons.logging.Log
+BufferedReader readLine java.io.BufferedReader
+UnsupportedEncodingException printStackTrace java.io.UnsupportedEncodingException
+InputStream close java.io.InputStream
+PrintStream println java.io.PrintStream
+OutputStream toString java.io.OutputStream
+MenuItem getItemId java.awt.MenuItem
+ArrayList add java.util.ArrayList
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+EntityManagerFactory unwrap javax.persistence.EntityManagerFactory
+PrintStream println java.io.PrintStream
+Gson toJson com.google.gson.Gson
+GsonBuilder create setPrettyPrinting com.google.gson.GsonBuilder
+MediaPlayer create setLooping setVolume start javafx.scene.media.MediaPlayer
+Button setOnClickListener javafx.scene.control.Button
+TextView setText android.widget.TextView
+PrintStream println java.io.PrintStream
+Gson toJson com.google.gson.Gson
+GsonBuilder create setPrettyPrinting com.google.gson.GsonBuilder
+IOUtils toString org.apache.commons.io.IOUtils
+FileWriter append java.io.FileWriter
+Configuration setProperty addDirectory addAnnotatedClass org.hibernate.cfg.Configuration
+FTPClient connect setSoTimeout enterLocalPassiveMode login setFileType setFileTransferMode storeFile org.apache.commons.net.ftp.FTPClient
+Log i org.apache.commons.logging.Log
+FileInputStream close java.io.FileInputStream
+File getName java.io.File
+Button setOnClickListener javafx.scene.control.Button
+OutputStream write flush close java.io.OutputStream
+File exists mkdir java.io.File
+InputStream read close java.io.InputStream
+ServletContext addListener addServlet javax.servlet.ServletContext
+Persistence createEntityManagerFactory javax.persistence.Persistence
+EntityManagerFactory createEntityManager javax.persistence.EntityManagerFactory
+JSONException printStackTrace org.json.JSONException
+JSONObject getString getJSONArray org.json.JSONObject
+Log d org.apache.commons.logging.Log
+JSONArray getJSONObject org.json.JSONArray
+ArrayList add java.util.ArrayList
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+PrintStream println java.io.PrintStream
+Session disconnect org.hibernate.classic.Session
+Date getTime java.util.Date
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+Map size java.util.Map
+PrintStream println java.io.PrintStream
+Assert fail org.junit.Assert
+SharedPreferences edit android.content.SharedPreferences
+GregorianCalendar setTimeInMillis getTimeInMillis java.util.GregorianCalendar
+TimeZone getTimeZone getAvailableIDs java.util.TimeZone
+Date getTime java.util.Date
+DateTime getTzShift getValue org.joda.time.DateTime
+SimpleDateFormat parse java.text.SimpleDateFormat
+ArrayUtils contains org.apache.commons.lang3.ArrayUtils
+Assert assertTrue assertEquals org.junit.Assert
+Button setOnClickListener javafx.scene.control.Button
+Calendar getInstance get java.util.Calendar
+PrintStream println java.io.PrintStream
+BigInteger probablePrime toByteArray mod multiply java.math.BigInteger
+ArrayUtils addAll org.apache.commons.lang3.ArrayUtils
+Assert assertEquals org.junit.Assert
+Cipher init doFinal javax.crypto.Cipher
+PrintStream println java.io.PrintStream
+List add get java.util.List
+TextView setText android.widget.TextView
+Button getText setText javafx.scene.control.Button
+MediaPlayer create getDuration getCurrentPosition isPlaying pause seekTo start javafx.scene.media.MediaPlayer
+List add java.util.List
+HashMap put java.util.HashMap
+List add java.util.List
+PrintStream println java.io.PrintStream
+Calendar getInstance getTimeInMillis java.util.Calendar
+TextView setText android.widget.TextView
+Date getTime java.util.Date
+Map put java.util.Map
+SimpleDateFormat parse java.text.SimpleDateFormat
+Assert assertEquals org.junit.Assert
+TextView setText android.widget.TextView
+Log e org.apache.commons.logging.Log
+WebView setWebViewClient getSettings loadUrl javafx.scene.web.WebView
+Button setOnTouchListener setOnKeyListener setOnClickListener javafx.scene.control.Button
+ScheduledExecutorService scheduleAtFixedRate java.util.concurrent.ScheduledExecutorService
+Log e org.apache.commons.logging.Log
+Executors newSingleThreadScheduledExecutor java.util.concurrent.Executors
+List size get forEach java.util.List
+Arrays asList java.util.Arrays
+Collection add java.util.Collection
+Button setLayoutParams javafx.scene.control.Button
+PrintStream println java.io.PrintStream
+List get java.util.List
+Map get java.util.Map
+ImmutableMap copyOf com.google.common.collect.ImmutableMap
+Gson getDelegateAdapter com.google.gson.Gson
+Matcher matches java.util.regex.Matcher
+Pattern matcher pattern java.util.regex.Pattern
+Assert assertEquals org.junit.Assert
+Dictionary put java.util.Dictionary
+File getName listFiles getAbsolutePath isDirectory java.io.File
+TextView setText android.widget.TextView
+IOException getMessage java.io.IOException
+List add iterator addAll java.util.List
+Iterator hasNext next java.util.Iterator
+ResultSet getString java.sql.ResultSet
+StringTokenizer hasMoreElements nextElement java.util.StringTokenizer
+PreparedStatement setNull setString java.sql.PreparedStatement
+Intent putExtras android.content.Intent
+Element setId com.google.gwt.user.client.Element
+DOM createDiv com.google.gwt.user.client.DOM
+PrintStream println java.io.PrintStream
+Locale getDefault java.util.Locale
+DecimalFormat setDecimalFormatSymbols format java.text.DecimalFormat
+ArrayList add java.util.ArrayList
+Button setOnClickListener javafx.scene.control.Button
+ImageView animate android.widget.ImageView
+Log d org.apache.commons.logging.Log
+TextView setGravity setText android.widget.TextView
+NodeList getLength item org.w3c.dom.NodeList
+Element getElementsByTagName org.w3c.dom.Element
+Document getElementsByTagName org.w3c.dom.Document
+DocumentBuilder parse javax.xml.parsers.DocumentBuilder
+Node getTextContent org.w3c.dom.Node
+DocumentBuilderFactory newInstance setIgnoringElementContentWhitespace setIgnoringComments newDocumentBuilder javax.xml.parsers.DocumentBuilderFactory
+Assert assertEquals org.junit.Assert
+Intent putExtra android.content.Intent
+ArrayList add java.util.ArrayList
+Button setOnClickListener javafx.scene.control.Button
+ImageView getDrawable android.widget.ImageView
+Intent putParcelableArrayListExtra android.content.Intent
+ArrayList add java.util.ArrayList
+Button setOnClickListener javafx.scene.control.Button
+LinkedHashMap keySet get java.util.LinkedHashMap
+Logger error org.apache.log4j.Logger
+OutputStream write flush java.io.OutputStream
+IOException getMessage java.io.IOException
+Log d org.apache.commons.logging.Log
+InputStream read close java.io.InputStream
+Button setOnClickListener javafx.scene.control.Button
+List add size toArray java.util.List
+JSONException printStackTrace org.json.JSONException
+JSONObject getJSONArray getString org.json.JSONObject
+TextView setText android.widget.TextView
+Intent putExtra android.content.Intent
+JSONArray length getJSONObject org.json.JSONArray
+List add get remove size java.util.List
+ImageView startAnimation setX getX setY getY android.widget.ImageView
+ArrayList add size get java.util.ArrayList
+PrintStream println java.io.PrintStream
+PrintStream println java.io.PrintStream
+Matcher find appendReplacement group appendTail java.util.regex.Matcher
+Map put keySet get java.util.Map
+Pattern compile matcher java.util.regex.Pattern
+StringUtils join org.apache.commons.lang3.StringUtils
+PrintStream println java.io.PrintStream
+Calendar getInstance add getTimeInMillis java.util.Calendar
+List add java.util.List
+Date toLocaleString java.util.Date
+Log d org.apache.commons.logging.Log
+PrintStream println java.io.PrintStream
+ServletContext getRealPath javax.servlet.ServletContext
+File isDirectory getName getAbsolutePath java.io.File
+ArrayList toArray size add java.util.ArrayList
+Button setOnClickListener javafx.scene.control.Button
+ClientProtocolException printStackTrace org.apache.http.client.ClientProtocolException
+JSONException printStackTrace org.json.JSONException
+JSONObject getJSONArray getString org.json.JSONObject
+TextView setText android.widget.TextView
+HttpClient execute org.apache.http.client.HttpClient
+HttpEntity getContent org.apache.http.HttpEntity
+HttpResponse getEntity org.apache.http.HttpResponse
+IOException printStackTrace java.io.IOException
+BufferedReader readLine java.io.BufferedReader
+JSONArray getJSONObject org.json.JSONArray
+Button setText javafx.scene.control.Button
+TextView setText android.widget.TextView
+Button setText setOnClickListener javafx.scene.control.Button
+TextView setVisibility setText android.widget.TextView
+MenuItem getItemId java.awt.MenuItem
+Random nextInt java.util.Random
+Canvas save drawBitmap restore java.awt.Canvas
+TextView setText android.widget.TextView
+PrintStream println java.io.PrintStream
+Button setVisibility javafx.scene.control.Button
+HttpEntity getContent org.apache.http.HttpEntity
+IOException printStackTrace java.io.IOException
+ArrayList add java.util.ArrayList
+JSONException printStackTrace org.json.JSONException
+JSONObject getString org.json.JSONObject
+HttpClient execute org.apache.http.client.HttpClient
+Map put java.util.Map
+HttpResponse getEntity org.apache.http.HttpResponse
+BufferedReader readLine java.io.BufferedReader
+JSONArray length getJSONObject org.json.JSONArray
+InputStream close java.io.InputStream
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+InetAddress getByName java.net.InetAddress
+DataInputStream available read java.io.DataInputStream
+Socket close getOutputStream isConnected getInputStream java.net.Socket
+TextView setText android.widget.TextView
+DataOutputStream write java.io.DataOutputStream
+Log d org.apache.commons.logging.Log
+IOException printStackTrace java.io.IOException
+UnknownHostException printStackTrace java.net.UnknownHostException
+SharedPreferences getString android.content.SharedPreferences
+Log wtf org.apache.commons.logging.Log
+Timer scheduleAtFixedRate java.util.Timer
+Canvas drawLine java.awt.Canvas
+PrintStream println java.io.PrintStream
+BufferedInputStream read java.io.BufferedInputStream
+URL openConnection java.net.URL
+URLConnection getInputStream java.net.URLConnection
+FileOutputStream write close java.io.FileOutputStream
+IOException printStackTrace java.io.IOException
+File exists mkdirs java.io.File
+ImmutableMap of builder com.google.common.collect.ImmutableMap
+Map isEmpty get putAll java.util.Map
+Configuration configure buildSessionFactory org.hibernate.cfg.Configuration
+ByteArrayOutputStream toByteArray java.io.ByteArrayOutputStream
+ImageView setImageBitmap android.widget.ImageView
+Intent getExtras android.content.Intent
+PrintStream println java.io.PrintStream
+Properties put java.util.Properties
+Button setOnClickListener javafx.scene.control.Button
+WebView getSettings loadUrl setWebViewClient setInitialScale javafx.scene.web.WebView
+MenuItem getItemId java.awt.MenuItem
+Intent putExtra setDataAndType android.content.Intent
+Set size contains isEmpty java.util.Set
+Intent getAction getExtras android.content.Intent
+Random nextInt java.util.Random
+UUID toString randomUUID java.util.UUID
+ArrayList add java.util.ArrayList
+BigDecimal toString java.math.BigDecimal
+List size get add java.util.List
+DateTimeFormatter print org.joda.time.format.DateTimeFormatter
+ImmutableMap get com.google.common.collect.ImmutableMap
+ByteBuffer limit get java.nio.ByteBuffer
+ArrayList add java.util.ArrayList
+TextView setText android.widget.TextView
+ArrayList get java.util.ArrayList
+PrintStream println java.io.PrintStream
+List add java.util.List
+IOException printStackTrace java.io.IOException
+PrintStream println printf java.io.PrintStream
+List add java.util.List
+Lists newArrayList com.google.common.collect.Lists
+MalformedURLException printStackTrace java.net.MalformedURLException
+TextView setText android.widget.TextView
+Map put java.util.Map
+File getName lastModified java.io.File
+JsonElement getAsJsonObject getAsString isJsonObject com.google.gson.JsonElement
+PrintStream println print java.io.PrintStream
+JsonObject get com.google.gson.JsonObject
+List add java.util.List
+Gson fromJson com.google.gson.Gson
+GsonBuilder registerTypeAdapter create com.google.gson.GsonBuilder
+Properties entrySet java.util.Properties
+Map clear put java.util.Map
+Entry getKey getValue java.util.Map.Entry
+Intent setClass android.content.Intent
+TextView getText android.widget.TextView
+ArrayList add java.util.ArrayList
+DOM setStyleAttribute com.google.gwt.user.client.DOM
+Objects equals java.util.Objects
+Log isDebugEnabled debug org.apache.commons.logging.Log
+PrintStream println java.io.PrintStream
+ZipOutputStream close putNextEntry java.util.zip.ZipOutputStream
+Iterables transform contains com.google.common.collect.Iterables
+Enumeration hasMoreElements nextElement java.util.Enumeration
+FileOutputStream close java.io.FileOutputStream
+File createTempFile getName java.io.File
+LinkedHashMap put java.util.LinkedHashMap
+Map containsKey put keySet entrySet java.util.Map
+Writer close java.io.Writer
+Entry getKey getValue java.util.Map.Entry
+ZipFile entries getInputStream java.util.zip.ZipFile
+ZipEntry getName java.util.zip.ZipEntry
+FilenameUtils removeExtension org.apache.commons.io.FilenameUtils
+InputStream close java.io.InputStream
+TextView setText android.widget.TextView
+Map containsKey put get java.util.Map
+Button setOnClickListener setText setEnabled isEnabled setTextColor javafx.scene.control.Button
+TextView setText android.widget.TextView
+PrintStream println java.io.PrintStream
+Lists newArrayList com.google.common.collect.Lists
+Entry getKey getValue java.util.Map.Entry
+List get java.util.List
+SharedPreferences getAll android.content.SharedPreferences
+Map entrySet java.util.Map
+Entry getKey java.util.Map.Entry
+Log e org.apache.commons.logging.Log
+Intent setFlags putExtra android.content.Intent
+ArrayList add java.util.ArrayList
+PrintStream printf java.io.PrintStream
+Connection unwrap setAutoCommit beginRequest prepareCall prepareStatement java.sql.Connection
+ResultSet next getString java.sql.ResultSet
+StringWriter toString java.io.StringWriter
+CallableStatement execute java.sql.CallableStatement
+PreparedStatement executeQuery java.sql.PreparedStatement
+DriverManager getConnection java.sql.DriverManager
+PrintStream println java.io.PrintStream
+Lists newArrayList com.google.common.collect.Lists
+Gson toJson com.google.gson.Gson
+Date toString java.util.Date
+List get add java.util.List
+IOException printStackTrace java.io.IOException
+MediaPlayer reset setDataSource prepare start javafx.scene.media.MediaPlayer
+File listFiles getName java.io.File
+Log i org.apache.commons.logging.Log
+ArrayList add java.util.ArrayList
+Logger debug org.apache.log4j.Logger
+PrintStream println java.io.PrintStream
+InputStream close java.io.InputStream
+TextView setText android.widget.TextView
+Intent getExtras android.content.Intent
+HttpGet setHeader org.apache.http.client.methods.HttpGet
+HttpClient execute org.apache.http.client.HttpClient
+HttpEntity getContent org.apache.http.HttpEntity
+HttpResponse getEntity org.apache.http.HttpResponse
+HttpURLConnection setAllowUserInteraction setInstanceFollowRedirects setRequestMethod connect getResponseCode getInputStream java.net.HttpURLConnection
+TextView setText android.widget.TextView
+URL openConnection java.net.URL
+IOException printStackTrace java.io.IOException
+Log v org.apache.commons.logging.Log
+BufferedReader readLine java.io.BufferedReader
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+GsonBuilder create registerTypeAdapter com.google.gson.GsonBuilder
+PrintStream println java.io.PrintStream
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+Button setVisibility javafx.scene.control.Button
+TextView setVisibility android.widget.TextView
+Connection createStatement java.sql.Connection
+ResultSet next getString java.sql.ResultSet
+Statement executeQuery java.sql.Statement
+PrintStream println java.io.PrintStream
+Log i org.apache.commons.logging.Log
+HttpURLConnection setRequestProperty setRequestMethod setReadTimeout setConnectTimeout setDoOutput getOutputStream getInputStream java.net.HttpURLConnection
+OutputStream close java.io.OutputStream
+TextView setText android.widget.TextView
+URL openConnection java.net.URL
+BufferedWriter write flush close java.io.BufferedWriter
+Log d org.apache.commons.logging.Log
+Intent putExtras android.content.Intent
+BufferedReader readLine close java.io.BufferedReader
+Intent getAction getExtras android.content.Intent
+Log e org.apache.commons.logging.Log
+MediaPlayer setAudioStreamType setDataSource prepare isPlaying start pause setWakeMode setOnPreparedListener setOnCompletionListener setOnErrorListener reset release javafx.scene.media.MediaPlayer
+PrintStream println java.io.PrintStream
+DefaultHttpClient getParams execute getConnectionManager org.apache.http.impl.client.DefaultHttpClient
+Button getVisibility setVisibility javafx.scene.control.Button
+InputSource setCharacterStream org.xml.sax.InputSource
+HttpPost setHeader setEntity org.apache.http.client.methods.HttpPost
+NodeList getLength item org.w3c.dom.NodeList
+HttpConnectionParams setConnectionTimeout setSoTimeout org.apache.http.params.HttpConnectionParams
+Intent getIntExtra android.content.Intent
+ArrayList add size toArray java.util.ArrayList
+EntityUtils toByteArray org.apache.http.util.EntityUtils
+List add java.util.List
+Document getElementsByTagName org.w3c.dom.Document
+DocumentBuilder parse javax.xml.parsers.DocumentBuilder
+Node getNodeValue getFirstChild org.w3c.dom.Node
+HttpResponse getEntity org.apache.http.HttpResponse
+Log i d v org.apache.commons.logging.Log
+DocumentBuilderFactory newInstance newDocumentBuilder javax.xml.parsers.DocumentBuilderFactory
+PrintStream println java.io.PrintStream
+Arrays asList java.util.Arrays
+Map put get java.util.Map
+PrintStream println java.io.PrintStream
+Arrays sort java.util.Arrays
+Map get put java.util.Map
+Intent setPackage android.content.Intent
+Log d i w org.apache.commons.logging.Log
+ArrayList size java.util.ArrayList
+PrintStream print java.io.PrintStream
+TextView getText android.widget.TextView
+JSONObject getString org.json.JSONObject
+URL openConnection java.net.URL
+URLConnection getInputStream java.net.URLConnection
+ImageView setImageURI android.widget.ImageView
+Query setFilterById org.hibernate.Query
+Intent getExtras getAction getLongExtra android.content.Intent
+Log v e org.apache.commons.logging.Log
+BufferedReader readLine close java.io.BufferedReader
+JSONArray length getJSONObject org.json.JSONArray
+ArrayList add java.util.ArrayList
+PrintStream println java.io.PrintStream
+ImageIO read javax.imageio.ImageIO
+SimpleDateFormat format parse java.text.SimpleDateFormat
+JSONException printStackTrace org.json.JSONException
+JSONObject getString org.json.JSONObject
+MalformedURLException printStackTrace java.net.MalformedURLException
+URL openConnection java.net.URL
+URLConnection getInputStream java.net.URLConnection
+IOException printStackTrace java.io.IOException
+BufferedReader readLine java.io.BufferedReader
+JSONArray length get org.json.JSONArray
+ArrayList add get java.util.ArrayList
+BufferedReader readLine java.io.BufferedReader
+PrintStream println java.io.PrintStream
+Gson toJson com.google.gson.Gson
+HashMap put java.util.HashMap
+ArrayList add java.util.ArrayList
+Stream anyMatch java.util.stream.Stream
+Collection stream java.util.Collection
+Button setOnClickListener javafx.scene.control.Button
+TextView getText android.widget.TextView
+Random nextInt java.util.Random
+Iterator next hasNext java.util.Iterator
+Map entrySet java.util.Map
+Entry getValue java.util.Map.Entry
+FileOutputStream write flush close java.io.FileOutputStream
+File getAbsolutePath java.io.File
+InputStream read java.io.InputStream
+PrintStream println java.io.PrintStream
+List add java.util.List
+Lists newArrayList com.google.common.collect.Lists
+PrintStream println java.io.PrintStream
+Lists newArrayList com.google.common.collect.Lists
+ArrayList add java.util.ArrayList
+PrintStream println java.io.PrintStream
+EntityManager createQuery javax.persistence.EntityManager
+HttpServletRequest getHeader javax.servlet.http.HttpServletRequest
+FilterChain doFilter javax.servlet.FilterChain
+HttpServletResponse setContentType sendError javax.servlet.http.HttpServletResponse
+Button setOnClickListener javafx.scene.control.Button
+Log d org.apache.commons.logging.Log
+JSONObject getJSONArray org.json.JSONObject
+JSONArray length org.json.JSONArray
+List size get java.util.List
+ShortBuffer wrap java.nio.ShortBuffer
+Log w v i d org.apache.commons.logging.Log
+IOException printStackTrace java.io.IOException
+File mkdirs getParentFile delete createNewFile getAbsolutePath java.io.File
+MessageDigest getInstance digest java.security.MessageDigest
+Log e org.apache.commons.logging.Log
+Cipher getInstance init doFinal javax.crypto.Cipher
+DefaultHttpClient execute org.apache.http.impl.client.DefaultHttpClient
+HttpPost setEntity setHeader org.apache.http.client.methods.HttpPost
+JSONObject toString org.json.JSONObject
+HttpEntity getContent org.apache.http.HttpEntity
+HttpResponse getEntity getFirstHeader org.apache.http.HttpResponse
+Log i e org.apache.commons.logging.Log
+IOException printStackTrace java.io.IOException
+BufferedReader readLine java.io.BufferedReader
+Header getValue org.apache.http.Header
+InputStream close java.io.InputStream
+ArrayList add java.util.ArrayList
+EntityTransaction rollback isActive javax.persistence.EntityTransaction
+Map put java.util.Map
+EntityManager getTransaction isOpen close javax.persistence.EntityManager
+List add java.util.List
+JSONException printStackTrace org.json.JSONException
+JSONObject toString getInt org.json.JSONObject
+Log d org.apache.commons.logging.Log
+WebView setWebViewClient getSettings loadUrl javafx.scene.web.WebView
+DirContext listBindings unbind javax.naming.directory.DirContext
+NamingEnumeration hasMore next close javax.naming.NamingEnumeration
+SessionFactory openSession org.hibernate.SessionFactory
+Session isOpen close org.hibernate.Session
+Random nextInt java.util.Random
+Persistence createEntityManagerFactory javax.persistence.Persistence
+Properties setProperty java.util.Properties
+EntityManagerFactory getMetamodel javax.persistence.EntityManagerFactory
+TextView setText android.widget.TextView
+SimpleDateFormat format java.text.SimpleDateFormat
+Log d org.apache.commons.logging.Log
+Canvas save scale drawLine restore java.awt.Canvas
+Transformer transform javax.xml.transform.Transformer
+JSONObject getString getJSONObject org.json.JSONObject
+Calendar getInstance setTime set getTime java.util.Calendar
+CollectionUtils isEmpty org.apache.commons.collections.CollectionUtils
+Date getTime java.util.Date
+TransformerFactory newTransformer newInstance javax.xml.transform.TransformerFactory
+StringUtils isBlank org.apache.commons.lang3.StringUtils
+Joiner join on com.google.common.base.Joiner
+TextView setText android.widget.TextView
+StringTokenizer hasMoreElements nextElement java.util.StringTokenizer
+PrintStream println java.io.PrintStream
+List isEmpty java.util.List
+MenuItem getItemId java.awt.MenuItem
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+GsonBuilder create registerTypeAdapter com.google.gson.GsonBuilder
+PrivateKey getEncoded java.security.PrivateKey
+Security addProvider java.security.Security
+PublicKey getEncoded java.security.PublicKey
+Button setVisibility javafx.scene.control.Button
+TextView setText setTextColor android.widget.TextView
+Log d org.apache.commons.logging.Log
+ArrayList add java.util.ArrayList
+PrintStream println java.io.PrintStream
+List add addAll java.util.List
+Gson toJson com.google.gson.Gson
+IntStream sum of java.util.stream.IntStream
+Stream collect map flatMapToInt findFirst java.util.stream.Stream
+ImmutableList of com.google.common.collect.ImmutableList
+ImmutableMap values com.google.common.collect.ImmutableMap
+Collection stream java.util.Collection
+Optional get java.util.Optional
+Objects equal com.google.common.base.Objects
+Collectors toList java.util.stream.Collectors
+Logger severe java.util.logging.Logger
+JsonReader nextInt com.google.gson.stream.JsonReader
+PrintStream println java.io.PrintStream
+Gson fromJson toJson com.google.gson.Gson
+PrintStream println java.io.PrintStream
+SQLException printStackTrace java.sql.SQLException
+Connection createStatement java.sql.Connection
+ResultSet next getInt java.sql.ResultSet
+Statement executeQuery execute executeUpdate java.sql.Statement
+PrintStream println java.io.PrintStream
+Arrays asList java.util.Arrays
+List add java.util.List
+HashMap put java.util.HashMap
+PrintStream println java.io.PrintStream
+Gson toJson com.google.gson.Gson
+MenuItem getItemId java.awt.MenuItem
+MediaPlayer create setLooping javafx.scene.media.MediaPlayer
+TextView getText android.widget.TextView
+PrintStream println java.io.PrintStream
+Connection createStatement java.sql.Connection
+ResultSet next getInt java.sql.ResultSet
+LocalDateTime now java.time.LocalDateTime
+Statement executeQuery java.sql.Statement
+DriverManager getConnection java.sql.DriverManager
+Map containsKey get java.util.Map
+DateTimeFormatter ofPattern parse java.time.format.DateTimeFormatter
+Map put toString java.util.Map
+Matcher matches java.util.regex.Matcher
+Pattern compile matcher java.util.regex.Pattern
+DataInputStream available readShort close java.io.DataInputStream
+File length java.io.File
+HttpServletRequest getParameter javax.servlet.http.HttpServletRequest
+TextView setBackgroundColor setText android.widget.TextView
+ArrayList get java.util.ArrayList
+Persistence createEntityManagerFactory javax.persistence.Persistence
+EntityManagerFactory createEntityManager javax.persistence.EntityManagerFactory
+NoSuchAlgorithmException printStackTrace java.security.NoSuchAlgorithmException
+Cipher getInstance init doFinal javax.crypto.Cipher
+TextView append android.widget.TextView
+Assert assertEquals org.junit.Assert
+TextView setTypeface android.widget.TextView
+PrintStream println java.io.PrintStream
+Iterator hasNext next java.util.Iterator
+Assert assertTrue org.junit.Assert
+File getPath length java.io.File
+HttpURLConnection setAllowUserInteraction setInstanceFollowRedirects setRequestMethod connect getResponseCode getInputStream java.net.HttpURLConnection
+URL openConnection java.net.URL
+ImageView setImageBitmap android.widget.ImageView
+IOException printStackTrace java.io.IOException
+InputStream close java.io.InputStream
+TextView setText android.widget.TextView
+TextView setText android.widget.TextView
+Tab getPosition javafx.scene.control.Tab
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+Map get java.util.Map
+Button setOnClickListener javafx.scene.control.Button
+List add java.util.List
+JSONException printStackTrace org.json.JSONException
+JSONObject toString getInt getString org.json.JSONObject
+Intent getStringExtra android.content.Intent
+Log d org.apache.commons.logging.Log
+JSONArray getJSONObject org.json.JSONArray
+TextView setText getLayoutParams android.widget.TextView
+ArrayList get java.util.ArrayList
+PrintStream println java.io.PrintStream
+Random nextDouble java.util.Random
+PrintStream println java.io.PrintStream
+JsonElement getAsJsonObject getAsInt getAsString com.google.gson.JsonElement
+JsonObject get com.google.gson.JsonObject
+Gson fromJson com.google.gson.Gson
+JsonPrimitive isNumber com.google.gson.JsonPrimitive
+GsonBuilder registerTypeHierarchyAdapter registerTypeAdapter create com.google.gson.GsonBuilder
+PrintStream println java.io.PrintStream
+Transaction commit rollback org.hibernate.Transaction
+Order asc org.hibernate.criterion.Order
+Criteria list addOrder org.hibernate.Criteria
+Map put java.util.Map
+Session beginTransaction save createCriteria org.hibernate.Session
+Optional ofNullable java.util.Optional
+Log d org.apache.commons.logging.Log
+HttpURLConnection setDoOutput setRequestMethod getOutputStream connect getInputStream getErrorStream java.net.HttpURLConnection
+PrintWriter print flush close java.io.PrintWriter
+PrintStream println flush java.io.PrintStream
+URLEncoder encode java.net.URLEncoder
+URL openConnection java.net.URL
+HashMap get java.util.HashMap
+BufferedReader readLine java.io.BufferedReader
+Assert assertNotNull assertEquals junit.framework.Assert
+ArrayList add size get java.util.ArrayList
+ArrayList add java.util.ArrayList
+Vector size remove add java.util.Vector
+ArrayList add java.util.ArrayList
+Arrays asList java.util.Arrays
+List contains java.util.List
+PropertyDescriptor getWriteMethod getName getReadMethod java.beans.PropertyDescriptor
+Collection addAll java.util.Collection
+Map putAll java.util.Map
+MenuItem getItemId java.awt.MenuItem
+SharedPreferences getInt edit android.content.SharedPreferences
+Log v org.apache.commons.logging.Log
+PrintStream println java.io.PrintStream
+XStream toXML com.thoughtworks.xstream.XStream
+Path quadTo javafx.scene.shape.Path
+ArrayList add remove java.util.ArrayList
+TextView setText android.widget.TextView
+PrintWriter write java.io.PrintWriter
+HttpServletRequest getParameter javax.servlet.http.HttpServletRequest
+Gson toJson com.google.gson.Gson
+HttpServletResponse setContentType setCharacterEncoding getWriter javax.servlet.http.HttpServletResponse
+PrintStream println java.io.PrintStream
+Splitter split com.google.common.base.Splitter
+Joiner join com.google.common.base.Joiner
+FTPClient connect login setFileType enterLocalPassiveMode org.apache.commons.net.ftp.FTPClient
+Log i org.apache.commons.logging.Log
+Files write com.google.common.io.Files
+PrintStream println java.io.PrintStream
+Gson toJson com.google.gson.Gson
+Log v e org.apache.commons.logging.Log
+Intent setDataAndType setFlags addFlags android.content.Intent
+IOException printStackTrace getMessage getStackTrace java.io.IOException
+File getAbsolutePath exists mkdir getAbsoluteFile createNewFile java.io.File
+List add size get java.util.List
+TextView setText setId android.widget.TextView
+Intent putExtra android.content.Intent
+PrintStream println java.io.PrintStream
+SQLException getMessage java.sql.SQLException
+Queue add size poll java.util.Queue
+Canvas drawBitmap java.awt.Canvas
+Arrays asList java.util.Arrays
+IOUtils toByteArray toString org.apache.commons.io.IOUtils
+Charset forName java.nio.charset.Charset
+URL openConnection java.net.URL
+URLConnection getInputStream java.net.URLConnection
+PrintStream println java.io.PrintStream
+PrintWriter write flush close java.io.PrintWriter
+ServerSocket getLocalPort accept close java.net.ServerSocket
+InetAddress isSiteLocalAddress getHostAddress java.net.InetAddress
+Socket getOutputStream close getInetAddress getPort java.net.Socket
+SocketException printStackTrace toString java.net.SocketException
+Enumeration hasMoreElements nextElement java.util.Enumeration
+NetworkInterface getNetworkInterfaces getInetAddresses java.net.NetworkInterface
+IOException printStackTrace java.io.IOException
+UnknownHostException printStackTrace java.net.UnknownHostException
+JsonElement getAsJsonObject toString com.google.gson.JsonElement
+PrintStream println java.io.PrintStream
+JsonObject get getAsJsonArray com.google.gson.JsonObject
+JsonParser parse com.google.gson.JsonParser
+EntityManager flush clear javax.persistence.EntityManager
+Intent setAction putExtra android.content.Intent
+List size get java.util.List
+MenuItem getItemId java.awt.MenuItem
+ArrayList add java.util.ArrayList
+Intent setFlags android.content.Intent
+Intent setType android.content.Intent
+Intent putExtra android.content.Intent
+Button setOnClickListener javafx.scene.control.Button
+TextView setText android.widget.TextView
+List add java.util.List
+Gson toJson com.google.gson.Gson
+List size java.util.List
+Random nextFloat java.util.Random
+Log d org.apache.commons.logging.Log
+URI getQuery java.net.URI
+JsonElement getAsJsonObject getAsString com.google.gson.JsonElement
+PrintStream println java.io.PrintStream
+JsonObject get com.google.gson.JsonObject
+Gson fromJson com.google.gson.Gson
+GsonBuilder registerTypeAdapter create com.google.gson.GsonBuilder
+ArrayList get java.util.ArrayList
+Button setOnClickListener javafx.scene.control.Button
+ImageView setImageBitmap android.widget.ImageView
+FileOutputStream close java.io.FileOutputStream
+Intent getExtras android.content.Intent
+File exists mkdir getPath java.io.File
+BufferedOutputStream flush close java.io.BufferedOutputStream
+Intent putExtra android.content.Intent
+Log d org.apache.commons.logging.Log
+InetAddress getByName java.net.InetAddress
+DataInputStream readUTF close java.io.DataInputStream
+Socket getOutputStream getRemoteSocketAddress getInputStream close java.net.Socket
+DataOutputStream writeUTF flush close java.io.DataOutputStream
+SocketAddress toString java.net.SocketAddress
+StringWriter toString java.io.StringWriter
+Button getText javafx.scene.control.Button
+TextView setText android.widget.TextView
+WebView setWebViewClient setWebChromeClient getSettings loadUrl canGoBack goBack setVisibility javafx.scene.web.WebView
+ToggleButton setVisibility javafx.scene.control.ToggleButton
+Logger info org.apache.log4j.Logger
+Button setOnClickListener javafx.scene.control.Button
+MalformedURLException printStackTrace java.net.MalformedURLException
+URL openStream java.net.URL
+IOException printStackTrace java.io.IOException
+BufferedReader readLine java.io.BufferedReader
+PrintStream println java.io.PrintStream
+Sets newHashSet intersection com.google.common.collect.Sets
+TextView setText android.widget.TextView
+Intent getStringExtra android.content.Intent
+Log d org.apache.commons.logging.Log
+ArrayList add java.util.ArrayList
+Log e org.apache.commons.logging.Log
+MediaPlayer stop reset setDataSource setAudioStreamType prepareAsync setOnPreparedListener setOnInfoListener setOnErrorListener setOnCompletionListener isPlaying javafx.scene.media.MediaPlayer
+List add size java.util.List
+JSONObject toString getInt length get getString org.json.JSONObject
+SharedPreferences getString android.content.SharedPreferences
+Log d org.apache.commons.logging.Log
+ArrayList add java.util.ArrayList
+Tab setTabListener setText javafx.scene.control.Tab
+Locale getDefault java.util.Locale
+List add isEmpty java.util.List
+Lists newArrayList com.google.common.collect.Lists
+Sets powerSet newHashSet com.google.common.collect.Sets
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+Intent putExtra android.content.Intent
+Intent hasExtra getExtras addFlags putExtra android.content.Intent
+TextView setVisibility setText android.widget.TextView
+ImageView setVisibility android.widget.ImageView
+TextView setText android.widget.TextView
+TextView setText android.widget.TextView
+ImageView setImageResource android.widget.ImageView
+File listFiles getName java.io.File
+DateTime getMillis org.joda.time.DateTime
+PrintStream println java.io.PrintStream
+PrintStream println java.io.PrintStream
+Collection toString java.util.Collection
+ServerSocket accept java.net.ServerSocket
+Log d org.apache.commons.logging.Log
+Intent putExtra addFlags android.content.Intent
+IOException printStackTrace java.io.IOException
+ArrayList get java.util.ArrayList
+Intent addFlags android.content.Intent
+Intent getExtras android.content.Intent
+IOException printStackTrace java.io.IOException
+MediaPlayer stop release isPlaying create setLooping setVolume start prepare javafx.scene.media.MediaPlayer
+RectF set offset contains android.graphics.RectF
+Log d org.apache.commons.logging.Log
+Canvas drawBitmap drawText java.awt.Canvas
+Button setOnClickListener setText javafx.scene.control.Button
+TextView setText android.widget.TextView
+TextView setText android.widget.TextView
+TextView setText android.widget.TextView
+Button setOnClickListener javafx.scene.control.Button
+ArrayList add java.util.ArrayList
+HttpServletRequest getHeader javax.servlet.http.HttpServletRequest
+Locale getDefault lookup java.util.Locale
+DefaultHttpClient getCredentialsProvider execute getConnectionManager org.apache.http.impl.client.DefaultHttpClient
+PrintStream println java.io.PrintStream
+ClientConnectionManager shutdown org.apache.http.conn.ClientConnectionManager
+HttpResponse getEntity org.apache.http.HttpResponse
+HttpHost getHostName getPort org.apache.http.HttpHost
+EntityUtils toString org.apache.http.util.EntityUtils
+TextView setText android.widget.TextView
+SharedPreferences getInt edit android.content.SharedPreferences
+TextView setText android.widget.TextView
+Intent getExtras android.content.Intent
+ScheduledExecutorService schedule java.util.concurrent.ScheduledExecutorService
+Executors newSingleThreadScheduledExecutor java.util.concurrent.Executors
+TextView setText android.widget.TextView
+ImageView setImageResource android.widget.ImageView
+List add java.util.List
+HashMap put java.util.HashMap
+List add java.util.List
+PrintStream println java.io.PrintStream
+BufferedReader readLine java.io.BufferedReader
+JSONException printStackTrace org.json.JSONException
+List add java.util.List
+JSONObject getString org.json.JSONObject
+Gson fromJson com.google.gson.Gson
+Intent getExtras getStringExtra getIntExtra android.content.Intent
+Random nextInt java.util.Random
+ArrayList size add get java.util.ArrayList
+RemoteException printStackTrace java.rmi.RemoteException
+PrintStream println java.io.PrintStream
+List get java.util.List
+Gson fromJson com.google.gson.Gson
+PrintStream println java.io.PrintStream
+List add java.util.List
+BufferedWriter write newLine close java.io.BufferedWriter
+Log v org.apache.commons.logging.Log
+IOException printStackTrace java.io.IOException
+BufferedReader readLine java.io.BufferedReader
+File exists mkdirs createNewFile java.io.File
+FileNotFoundException printStackTrace java.io.FileNotFoundException
+Intent setFlags android.content.Intent
+PrintStream println java.io.PrintStream
+PrintStream println java.io.PrintStream
+PrintStream println java.io.PrintStream
+List get add toArray java.util.List
+Query setParameter executeUpdate javax.persistence.Query
+CriteriaQuery from select javax.persistence.criteria.CriteriaQuery
+CriteriaBuilder createQuery equal like javax.persistence.criteria.CriteriaBuilder
+EntityManager createQuery getCriteriaBuilder javax.persistence.EntityManager
+TypedQuery setParameter executeUpdate getResultList setFirstResult getSingleResult javax.persistence.TypedQuery
+Root get javax.persistence.criteria.Root
+ArrayList isEmpty get java.util.ArrayList
+PrintStream println java.io.PrintStream
+JSONObject get org.json.JSONObject
+Log i org.apache.commons.logging.Log
+Objects equals java.util.Objects
+TextView setText android.widget.TextView
+HashMap put get java.util.HashMap
+Log d org.apache.commons.logging.Log
+IOUtils toString org.apache.commons.io.IOUtils
+List add java.util.List
+Files copy com.google.common.io.Files
+File getName java.io.File
+Canvas drawBitmap java.awt.Canvas
+PrintStream println java.io.PrintStream
+Calendar set getMaximum add java.util.Calendar
+PrintStream println java.io.PrintStream
+JsonElement getAsString com.google.gson.JsonElement
+Gson toJson fromJson com.google.gson.Gson
+GsonBuilder create setPrettyPrinting registerTypeAdapter com.google.gson.GsonBuilder
+PrintStream println java.io.PrintStream
+TextView setText android.widget.TextView
+Random nextInt java.util.Random
+Timer scheduleAtFixedRate java.util.Timer
+ArrayList clear add java.util.ArrayList
+HttpURLConnection setUseCaches setDoOutput setDoInput setRequestProperty getOutputStream java.net.HttpURLConnection
+PrintWriter append flush close java.io.PrintWriter
+OutputStream write flush java.io.OutputStream
+URL openConnection java.net.URL
+URLConnection guessContentTypeFromName java.net.URLConnection
+FileInputStream read close java.io.FileInputStream
+File getName java.io.File
+InputStream read close java.io.InputStream
+Transaction commit org.hibernate.Transaction
+SessionFactory getCurrentSession close org.hibernate.SessionFactory
+Session beginTransaction save getTransaction org.hibernate.Session
+Configuration addAnnotatedClass configure org.hibernate.cfg.Configuration
+TextView setX setY android.widget.TextView
+Log i org.apache.commons.logging.Log
+Random nextInt java.util.Random
+Intent putExtra android.content.Intent
+Transaction commit begin org.hibernate.Transaction
+SessionFactory openSession org.hibernate.SessionFactory
+Session beginTransaction save getTransaction load update close org.hibernate.Session
+Configuration buildSessionFactory configure org.hibernate.cfg.Configuration
+PrintStream println java.io.PrintStream
+PrintStream println java.io.PrintStream
+Iterator hasNext next java.util.Iterator
+Gson fromJson com.google.gson.Gson
+Set iterator java.util.Set
+Scanner hasNext nextLine close java.util.Scanner
+HashMap size keySet get java.util.HashMap
+TextView setText android.widget.TextView
+SharedPreferences edit getBoolean android.content.SharedPreferences
+PrintStream println java.io.PrintStream
+IOUtils toString org.apache.commons.io.IOUtils
+JSONObject get getJSONObject org.json.JSONObject
+URL openConnection java.net.URL
+URLConnection getInputStream getContentEncoding java.net.URLConnection
+Map put java.util.Map
+File getName java.io.File
+ImageView setImageBitmap android.widget.ImageView
+Intent getData android.content.Intent
+HttpsURLConnection setDefaultHostnameVerifier setDefaultSSLSocketFactory javax.net.ssl.HttpsURLConnection
+SSLContext getInstance init javax.net.ssl.SSLContext
+NoSuchAlgorithmException toString java.security.NoSuchAlgorithmException
+Log e org.apache.commons.logging.Log
+PrintStream println java.io.PrintStream
+PrintStream println java.io.PrintStream
+List size java.util.List
+Locale getDefault java.util.Locale
+Intent setFlags setType setAction setDataAndType android.content.Intent
+File listFiles isDirectory getAbsolutePath getName isFile getAbsoluteFile java.io.File
+ArrayList add size toArray java.util.ArrayList
+TextView setText android.widget.TextView
+ImageView setImageResource android.widget.ImageView
+Button setOnClickListener javafx.scene.control.Button
+TextView setText android.widget.TextView
+Optional ofNullable get java.util.Optional
+PrintStream println java.io.PrintStream
+PrintStream println java.io.PrintStream
+Calendar setTime add getTime java.util.Calendar
+GregorianCalendar getInstance java.util.GregorianCalendar
+SimpleDateFormat parse format java.text.SimpleDateFormat
+KeyStore getInstance java.security.KeyStore
+ClientProtocolException printStackTrace org.apache.http.client.ClientProtocolException
+HttpPost setEntity org.apache.http.client.methods.HttpPost
+JSONObject get getBoolean getInt getString org.json.JSONObject
+Enumeration hasMoreElements nextElement java.util.Enumeration
+HttpClient execute org.apache.http.client.HttpClient
+HttpResponse getEntity org.apache.http.HttpResponse
+IOException printStackTrace java.io.IOException
+Dictionary keys get java.util.Dictionary
+File isFile java.io.File
+Matcher matches group java.util.regex.Matcher
+Pattern matcher java.util.regex.Pattern
+Assert assertEquals org.junit.Assert
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+Comparator comparing java.util.Comparator
+Collections sort java.util.Collections
+Map remove get put isEmpty java.util.Map
+Log v org.apache.commons.logging.Log
+ImageView setOnClickListener android.widget.ImageView
+Intent putExtra android.content.Intent
+PrintStream println java.io.PrintStream
+OutputStream close java.io.OutputStream
+ByteArrayOutputStream toByteArray java.io.ByteArrayOutputStream
+FileOutputStream close java.io.FileOutputStream
+Set contains add java.util.Set
+InputStream close java.io.InputStream
+DriverManager getConnection java.sql.DriverManager
+MenuItem getItemId java.awt.MenuItem
+TextView setText android.widget.TextView
+Attribute size get javax.naming.directory.Attribute
+Matcher find java.util.regex.Matcher
+Attributes get javax.naming.directory.Attributes
+Collection add java.util.Collection
+Map get java.util.Map
+DirContext getAttributes close javax.naming.directory.DirContext
+Pattern matcher java.util.regex.Pattern
+NamingException getMessage getCause javax.naming.NamingException
+Hashtable put java.util.Hashtable
+TextView setTypeface android.widget.TextView
+Arrays equals java.util.Arrays
+PrintStream println java.io.PrintStream
+EnumSet allOf java.util.EnumSet
+Assert assertEquals org.junit.Assert
+Button setOnClickListener javafx.scene.control.Button
+PrintStream println java.io.PrintStream
+ServerSocket accept close java.net.ServerSocket
+DataInputStream readUTF close java.io.DataInputStream
+Socket getOutputStream getInputStream close java.net.Socket
+DataOutputStream writeUTF close java.io.DataOutputStream
+IOException printStackTrace toString java.io.IOException
+UnknownHostException printStackTrace toString java.net.UnknownHostException
+List get java.util.List
+Criteria add list org.hibernate.Criteria
+Restrictions eq org.hibernate.criterion.Restrictions
+List add java.util.List
+Button setOnClickListener javafx.scene.control.Button
+PrintWriter println java.io.PrintWriter
+HttpServletResponse setStatus addHeader getWriter javax.servlet.http.HttpServletResponse
+PrintStream println java.io.PrintStream
+Connection createArrayOf java.sql.Connection
+PreparedStatement getConnection setArray java.sql.PreparedStatement
+Button setTag setOnClickListener setVisibility javafx.scene.control.Button
+TextView setText android.widget.TextView
+ArrayList get java.util.ArrayList
+Session getNamedQuery createQuery clear close org.hibernate.classic.Session
+SessionFactory openStatelessSession openSession org.hibernate.SessionFactory
+Query setProperties scroll setFetchSize list setMaxResults setFirstResult org.hibernate.Query
+List add java.util.List
+MenuItem getItemId java.awt.MenuItem
+ImageView animate android.widget.ImageView
+BufferedReader readLine java.io.BufferedReader
+MalformedURLException printStackTrace java.net.MalformedURLException
+URL openStream java.net.URL
+IOException printStackTrace java.io.IOException
+BufferedReader readLine java.io.BufferedReader
+Scene getStylesheets javafx.scene.Scene
+Stage setScene setOnCloseRequest show javafx.stage.Stage
+FXMLLoader load javafx.fxml.FXMLLoader
+PrintStream println java.io.PrintStream
+Files readAllBytes java.nio.file.Files
+Paths get java.nio.file.Paths
+Gson fromJson com.google.gson.Gson
+PrintStream println print java.io.PrintStream
+Lists newArrayList com.google.common.collect.Lists
+IOException getMessage printStackTrace java.io.IOException
+BufferedReader readLine java.io.BufferedReader
+File length java.io.File
+TextView setText android.widget.TextView
+ImageView setImageResource getGlobalVisibleRect invalidate setPadding getDrawable setImageBitmap setAlpha setScaleType setDrawingCacheEnabled android.widget.ImageView
+Log d org.apache.commons.logging.Log
+ArrayList size add get remove java.util.ArrayList
+PrintStream println java.io.PrintStream
+TextView setText android.widget.TextView
+ImageView setImageResource android.widget.ImageView
+ArrayList get add java.util.ArrayList
+HttpURLConnection getInputStream java.net.HttpURLConnection
+MalformedURLException printStackTrace java.net.MalformedURLException
+URL openConnection java.net.URL
+IOException printStackTrace java.io.IOException
+Map put java.util.Map
+ArrayList add java.util.ArrayList
+Map put java.util.Map
+Assert assertEquals assertNull org.junit.Assert
+IOException printStackTrace java.io.IOException
+Intent putParcelableArrayListExtra android.content.Intent
+Log w org.apache.commons.logging.Log
+ArrayList add get java.util.ArrayList
+OutputStream flush java.io.OutputStream
+IOUtils closeQuietly toString toInputStream copy org.apache.commons.io.IOUtils
+InputStream close java.io.InputStream
+PrintStream println java.io.PrintStream
+IOUtils toByteArray org.apache.commons.io.IOUtils
+FileOutputStream write flush close java.io.FileOutputStream
+FileUtils readFileToString org.apache.commons.io.FileUtils
+Button setOnClickListener javafx.scene.control.Button
+PrintStream println java.io.PrintStream
+ServerSocket accept java.net.ServerSocket
+TextView setText android.widget.TextView
+IOException printStackTrace java.io.IOException
+JsonElement getAsJsonObject getAsString getAsJsonArray com.google.gson.JsonElement
+JsonObject get com.google.gson.JsonObject
+JsonArray size get com.google.gson.JsonArray
+List add toArray java.util.List
+Button setText setOnClickListener javafx.scene.control.Button
+PrintStream println java.io.PrintStream
+DateTime now plusSeconds plusMinutes plusDays org.joda.time.DateTime
+PrintStream println java.io.PrintStream
+Multimap put values com.google.common.collect.Multimap
+ImageView setVisibility setImageResource startAnimation android.widget.ImageView
+Log i org.apache.commons.logging.Log
+Timer cancel java.util.Timer
+Button setOnClickListener javafx.scene.control.Button
+Intent getStringExtra android.content.Intent
+Random nextInt java.util.Random
+OutputStream write flush close java.io.OutputStream
+Vector add java.util.Vector
+Log i e org.apache.commons.logging.Log
+InputStream read close java.io.InputStream
+ArrayList add java.util.ArrayList
+StringUtils isBlank org.apache.commons.lang3.StringUtils
+PrintStream println java.io.PrintStream
+Map put get java.util.Map
+Log info org.apache.commons.logging.Log
+HttpURLConnection setRequestMethod setDoOutput connect getContentLength getInputStream java.net.HttpURLConnection
+MalformedURLException printStackTrace java.net.MalformedURLException
+URL openConnection java.net.URL
+FileOutputStream write close java.io.FileOutputStream
+IOException printStackTrace java.io.IOException
+InputStream read java.io.InputStream
+ByteArrayOutputStream size writeTo flush java.io.ByteArrayOutputStream
+Button setOnClickListener javafx.scene.control.Button
+HttpPost setEntity setHeader org.apache.http.client.methods.HttpPost
+TextView setBackgroundColor setText android.widget.TextView
+MenuItem getItemId java.awt.MenuItem
+HttpClient execute org.apache.http.client.HttpClient
+HttpEntity getContent org.apache.http.HttpEntity
+HttpResponse getEntity org.apache.http.HttpResponse
+Log d org.apache.commons.logging.Log
+BufferedReader readLine java.io.BufferedReader
+InputStream close java.io.InputStream
+PrintStream println java.io.PrintStream
+CountDownLatch countDown await java.util.concurrent.CountDownLatch
+List size add java.util.List
+Future isDone get java.util.concurrent.Future
+ExecutorService submit java.util.concurrent.ExecutorService
+PrintStream println java.io.PrintStream
+List size add java.util.List
+GregorianCalendar getTime java.util.GregorianCalendar
+TimeZone getTimeZone java.util.TimeZone
+Map keySet get java.util.Map
+ParseException printStackTrace java.text.ParseException
+PreparedStatement setObject java.sql.PreparedStatement
+JSONException printStackTrace org.json.JSONException
+JSONObject getString getBoolean getJSONObject org.json.JSONObject
+PrintStream println java.io.PrintStream
+JSONObject has getString getInt getBoolean getJSONObject getDouble getJSONArray org.json.JSONObject
+HashMap put java.util.HashMap
+JSONArray length getString org.json.JSONArray
+NumberFormat format getIntegerInstance java.text.NumberFormat
+ArrayList add get java.util.ArrayList
+Date getTime java.util.Date
+SimpleDateFormat parse java.text.SimpleDateFormat
+PrintStream println java.io.PrintStream
+Configuration configure getProperties buildSessionFactory org.hibernate.cfg.Configuration
+PrintStream println java.io.PrintStream
+List size get java.util.List
+Gson fromJson com.google.gson.Gson
+IOException printStackTrace java.io.IOException
+ExecutionException printStackTrace java.util.concurrent.ExecutionException
+List add get java.util.List
+JSONObject getJSONArray getJSONObject getString org.json.JSONObject
+TextView setText setVisibility android.widget.TextView
+HttpClient execute org.apache.http.client.HttpClient
+Map get put java.util.Map
+HttpEntity getContent org.apache.http.HttpEntity
+HttpResponse getEntity org.apache.http.HttpResponse
+Configuration orientation org.hibernate.cfg.Configuration
+Collections unmodifiableList java.util.Collections
+JSONArray length getJSONObject org.json.JSONArray
+URI getUserInfo getHost getPort getPath java.net.URI
+HttpURLConnection setRequestMethod connect getResponseCode getInputStream java.net.HttpURLConnection
+URL openConnection java.net.URL
+IOException printStackTrace java.io.IOException
+InputStream close java.io.InputStream
+HttpPost setHeader setEntity org.apache.http.client.methods.HttpPost
+JSONException printStackTrace org.json.JSONException
+MenuItem getItemId java.awt.MenuItem
+JSONObject put toString org.json.JSONObject
+HttpClient execute org.apache.http.client.HttpClient
+HttpResponse getEntity org.apache.http.HttpResponse
+Log e org.apache.commons.logging.Log
+EntityUtils toString org.apache.http.util.EntityUtils
+OutputStream write java.io.OutputStream
+TextView setText android.widget.TextView
+ImageView setImageResource android.widget.ImageView
+IOException printStackTrace java.io.IOException
+DatagramSocket setBroadcast send close setSoTimeout receive java.net.DatagramSocket
+InetAddress getByName java.net.InetAddress
+Enumeration hasMoreElements nextElement java.util.Enumeration
+NetworkInterface getNetworkInterfaces isUp isLoopback getInterfaceAddresses java.net.NetworkInterface
+Log getStackTraceString org.apache.commons.logging.Log
+DatagramPacket getLength getData java.net.DatagramPacket
+PrintStream println java.io.PrintStream
+DateTime getMillis compareTo getDayOfWeek plusDays org.joda.time.DateTime
+ArrayList size subList java.util.ArrayList
+StringUtils isBlank org.apache.commons.lang3.StringUtils
+TextView setText android.widget.TextView
+List get java.util.List
+ImageView getContext android.widget.ImageView
+PrintWriter println java.io.PrintWriter
+HttpServletResponse addHeader setStatus getWriter javax.servlet.http.HttpServletResponse
+PrintStream println java.io.PrintStream
+Map keySet get java.util.Map
+PrintStream println java.io.PrintStream
+LinkedHashMap put java.util.LinkedHashMap
+BufferedInputStream read close java.io.BufferedInputStream
+ZipInputStream getNextEntry read close java.util.zip.ZipInputStream
+ByteArrayOutputStream toByteArray java.io.ByteArrayOutputStream
+IOException printStackTrace java.io.IOException
+Deque add java.util.Deque
+ZipEntry isDirectory getName java.util.zip.ZipEntry
+FileNotFoundException printStackTrace java.io.FileNotFoundException
+BufferedOutputStream write flush close java.io.BufferedOutputStream
+PrintStream println java.io.PrintStream
+Button setOnClickListener javafx.scene.control.Button
+IOException printStackTrace java.io.IOException
+WebView getSettings setWebChromeClient setWebViewClient setScrollBarStyle setScrollbarFadingEnabled loadUrl canGoBack goBack javafx.scene.web.WebView
+MenuItem setIcon java.awt.MenuItem
+Intent setType putExtra createChooser android.content.Intent
+EnumSet of java.util.EnumSet
+PrintStream println java.io.PrintStream
+Multimap put com.google.common.collect.Multimap
+DateFormat format java.text.DateFormat
+Log v org.apache.commons.logging.Log
+BufferedInputStream read close java.io.BufferedInputStream
+URL getHost getPort getPath getFile toExternalForm java.net.URL
+PrintStream println java.io.PrintStream
+File length java.io.File
+FileNotFoundException printStackTrace java.io.FileNotFoundException
+TextView setText android.widget.TextView
+FileOutputStream flush close java.io.FileOutputStream
+Log d org.apache.commons.logging.Log
+UUID toString randomUUID java.util.UUID
+File getAbsolutePath exists mkdirs createNewFile java.io.File
+Button setOnClickListener javafx.scene.control.Button
+PrintStream println java.io.PrintStream
+List size java.util.List
+TextView setText android.widget.TextView
+Log e org.apache.commons.logging.Log
+Intent putExtra android.content.Intent
+TextView setText android.widget.TextView
+PrintStream println java.io.PrintStream
+File exists delete getPath java.io.File
+File length getName java.io.File
+TextView setText android.widget.TextView
+ImageView setImageResource android.widget.ImageView
+Intent getIntExtra android.content.Intent
+Canvas drawLine java.awt.Canvas
+PrintStream println java.io.PrintStream
+PrintStream println java.io.PrintStream
+JsonObject addProperty add toString com.google.gson.JsonObject
+JsonArray add com.google.gson.JsonArray
+HttpURLConnection setDoInput setRequestMethod connect getInputStream java.net.HttpURLConnection
+JSONObject toString org.json.JSONObject
+URL openConnection java.net.URL
+Log v org.apache.commons.logging.Log
+HashMap put java.util.HashMap
+BufferedReader readLine java.io.BufferedReader
+PrintStream println java.io.PrintStream
+Properties getProperty java.util.Properties
+DriverManager getConnection java.sql.DriverManager
+SSLContext getInstance init setDefault getSocketFactory javax.net.ssl.SSLContext
+HttpsURLConnection setDefaultSSLSocketFactory setDefaultHostnameVerifier javax.net.ssl.HttpsURLConnection
+HttpClientBuilder create setSSLHostnameVerifier setSSLContext setDefaultCredentialsProvider build org.apache.http.impl.client.HttpClientBuilder
+PrintStream println java.io.PrintStream
+Intent putExtra addFlags setClipData setDataAndType android.content.Intent
+File exists delete mkdirs getParentFile java.io.File
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+SharedPreferences getString edit android.content.SharedPreferences
+Log d org.apache.commons.logging.Log
+Intent getData android.content.Intent
+TextView setText android.widget.TextView
+MenuItem getItemId java.awt.MenuItem
+HttpURLConnection connect java.net.HttpURLConnection
+MenuItem getItemId java.awt.MenuItem
+Map put java.util.Map
+Log d org.apache.commons.logging.Log
+Button setOnClickListener javafx.scene.control.Button
+Assert assertFalse assertTrue fail org.junit.Assert
+List stream java.util.List
+Arrays asList java.util.Arrays
+Stream collect java.util.stream.Stream
+Map entrySet java.util.Map
+Entry getKey getValue java.util.Map.Entry
+Collectors groupingBy summingInt java.util.stream.Collectors
+Collections max java.util.Collections
+JSONException toString org.json.JSONException
+JSONObject getJSONArray names getString org.json.JSONObject
+Log e i d org.apache.commons.logging.Log
+JSONArray length getJSONObject getString org.json.JSONArray
+ArrayList clear add size get java.util.ArrayList
+Button setOnClickListener javafx.scene.control.Button
+PrintStream println java.io.PrintStream
+DateTime plus plusMonths org.joda.time.DateTime
+Assert assertEquals org.junit.Assert
+File getAbsolutePath java.io.File
+SAXParserFactory newInstance newSAXParser javax.xml.parsers.SAXParserFactory
+Attributes getValue org.xml.sax.Attributes
+BlockingQueue take put java.util.concurrent.BlockingQueue
+SharedPreferences getLong getBoolean getString getInt android.content.SharedPreferences
+Log e org.apache.commons.logging.Log
+PrintStream println java.io.PrintStream
+Transaction commit org.hibernate.Transaction
+SessionFactory getCurrentSession close org.hibernate.SessionFactory
+Session beginTransaction save getTransaction close org.hibernate.Session
+Configuration addAnnotatedClass configure org.hibernate.cfg.Configuration
+HashMap put java.util.HashMap
+ArrayList add java.util.ArrayList
+PrintStream println java.io.PrintStream
+Iterables getOnlyElement com.google.common.collect.Iterables
+Splitter trimResults omitEmptyStrings on split com.google.common.base.Splitter
+AtomicLong incrementAndGet java.util.concurrent.atomic.AtomicLong
+Log d org.apache.commons.logging.Log
+RootPanel add get com.google.gwt.user.client.ui.RootPanel
+ArrayList add java.util.ArrayList
+CriteriaBuilder isFalse equal and javax.persistence.criteria.CriteriaBuilder
+Root get javax.persistence.criteria.Root
+PrintStream println java.io.PrintStream
+Arrays asList java.util.Arrays
+PrintStream println java.io.PrintStream
+ArrayList add java.util.ArrayList
+PrintStream println java.io.PrintStream
+List add size java.util.List
+Gson toJson fromJson com.google.gson.Gson
+Map put java.util.Map
+GsonBuilder setPrettyPrinting create registerTypeAdapter com.google.gson.GsonBuilder
+Assert assertEquals org.junit.Assert
+Map put java.util.Map
+JsonElement getAsString getAsJsonObject com.google.gson.JsonElement
+PrintStream println java.io.PrintStream
+JsonObject get com.google.gson.JsonObject
+Gson fromJson com.google.gson.Gson
+GsonBuilder create registerTypeAdapter com.google.gson.GsonBuilder
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+URLEncoder encode java.net.URLEncoder
+Map get put java.util.Map
+Set add java.util.Set
+DefaultHttpClient getCredentialsProvider execute getConnectionManager org.apache.http.impl.client.DefaultHttpClient
+PrintStream println java.io.PrintStream
+ClientConnectionManager shutdown org.apache.http.conn.ClientConnectionManager
+HttpResponse getEntity org.apache.http.HttpResponse
+HttpHost getHostName getPort org.apache.http.HttpHost
+EntityUtils toString org.apache.http.util.EntityUtils
+List iterator java.util.List
+Iterator hasNext next remove java.util.Iterator
+List get add java.util.List
+TextView setText android.widget.TextView
+ImageView setImageDrawable android.widget.ImageView
+PrintStream println java.io.PrintStream
+Button startAnimation javafx.scene.control.Button
+TextView getText getX android.widget.TextView
+ImageView getRotation getAlpha android.widget.ImageView
+PrintStream println java.io.PrintStream
+List add java.util.List
+JsonReader setLenient beginArray hasNext beginObject nextName nextString nextDouble nextInt skipValue endObject endArray close com.google.gson.stream.JsonReader
+ServletContext addListener addServlet javax.servlet.ServletContext
+JSONException printStackTrace toString org.json.JSONException
+JSONObject getJSONArray isNull getString getInt getJSONObject org.json.JSONObject
+Log d org.apache.commons.logging.Log
+JSONArray length get getString org.json.JSONArray
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+HttpURLConnection setDoOutput setRequestProperty setRequestMethod getOutputStream getResponseCode disconnect java.net.HttpURLConnection
+TextView setText android.widget.TextView
+URL openConnection java.net.URL
+OutputStreamWriter write flush close java.io.OutputStreamWriter
+ConcurrentMap get remove keySet java.util.concurrent.ConcurrentMap
+Path reset addCircle close javafx.scene.shape.Path
+Session getTransaction org.hibernate.classic.Session
+PrintStream println java.io.PrintStream
+Transaction begin commit org.hibernate.Transaction
+Session get createCriteria getTransaction save persist update delete org.hibernate.Session
+TextView setText android.widget.TextView
+JSONException printStackTrace org.json.JSONException
+JSONObject getString org.json.JSONObject
+HashMap put java.util.HashMap
+JSONArray length getJSONObject org.json.JSONArray
+ArrayList add java.util.ArrayList
+WebView getSettings setWebChromeClient loadUrl setWebViewClient javafx.scene.web.WebView
+XStream alias fromXML com.thoughtworks.xstream.XStream
+NodeList getLength item org.w3c.dom.NodeList
+TextView setLayoutParams setText android.widget.TextView
+Document getElementsByTagName org.w3c.dom.Document
+ArrayList add get java.util.ArrayList
+PrintStream println java.io.PrintStream
+Iterator hasNext next java.util.Iterator
+Entry getValue getKey java.util.Map.Entry
+Set iterator java.util.Set
+HashMap containsKey put get size entrySet java.util.HashMap
+ArrayList add size get java.util.ArrayList
+Button setTypeface setText setTag setOnClickListener getBackground setEnabled javafx.scene.control.Button
+TextView setTypeface setText android.widget.TextView
+SharedPreferences getBoolean android.content.SharedPreferences
+LinkedList add java.util.LinkedList
+MediaPlayer create javafx.scene.media.MediaPlayer
+Collections shuffle java.util.Collections
+ArrayList add get java.util.ArrayList
+Transaction commit org.hibernate.Transaction
+Session beginTransaction save getTransaction close get clear saveOrUpdate org.hibernate.Session
+JSONException printStackTrace org.json.JSONException
+JSONObject getJSONArray getString org.json.JSONObject
+Log d e org.apache.commons.logging.Log
+HashMap put java.util.HashMap
+JSONArray length getJSONObject org.json.JSONArray
+ArrayList add java.util.ArrayList
+Connection createStatement java.sql.Connection
+ResultSet next getInt close java.sql.ResultSet
+SessionFactory getCurrentSession org.hibernate.SessionFactory
+Statement executeQuery close java.sql.Statement
+TextView setText android.widget.TextView
+Date after getTime java.util.Date
+SimpleDateFormat parse java.text.SimpleDateFormat
+Button setText setOnClickListener javafx.scene.control.Button
+Log e org.apache.commons.logging.Log
+PrintStream println java.io.PrintStream
+List add java.util.List
+Description getChildren getClassName getMethodName org.junit.runner.Description
+Properties load size java.util.Properties
+PrintStream println java.io.PrintStream
+Arrays asList java.util.Arrays
+List get size java.util.List
+ByteArrayOutputStream toByteArray java.io.ByteArrayOutputStream
+ArrayList add java.util.ArrayList
+Button setText setLayoutParams javafx.scene.control.Button
+TextView setTextColor setLayoutParams setVisibility setText setTextSize android.widget.TextView
+List add java.util.List
+Connection prepareStatement java.sql.Connection
+ResultSet next getString java.sql.ResultSet
+DataSource getConnection javax.sql.DataSource
+Log error org.apache.commons.logging.Log
+PreparedStatement executeQuery java.sql.PreparedStatement
+Properties setProperty java.util.Properties
+Map entrySet java.util.Map
+Entry getValue getKey java.util.Map.Entry
+List add java.util.List
+TimeZone getDefault java.util.TimeZone
+Log d org.apache.commons.logging.Log
+Log d org.apache.commons.logging.Log
+PrintStream println java.io.PrintStream
+XStream ignoreUnknownElements processAnnotations getMapper getReflectionProvider registerConverter fromXML com.thoughtworks.xstream.XStream
+List forEach java.util.List
+HierarchicalStreamReader getAttribute com.thoughtworks.xstream.io.HierarchicalStreamReader
+ClientProtocolException printStackTrace org.apache.http.client.ClientProtocolException
+HttpPost setEntity org.apache.http.client.methods.HttpPost
+List add java.util.List
+SharedPreferences getString android.content.SharedPreferences
+HttpClient execute org.apache.http.client.HttpClient
+HttpEntity getContent org.apache.http.HttpEntity
+HttpResponse getEntity org.apache.http.HttpResponse
+Log w org.apache.commons.logging.Log
+IOException printStackTrace java.io.IOException
+BufferedReader readLine close java.io.BufferedReader
+HttpServletResponse setHeader javax.servlet.http.HttpServletResponse
+JSONException printStackTrace org.json.JSONException
+TextView setText android.widget.TextView
+JSONObject getString org.json.JSONObject
+Log d org.apache.commons.logging.Log
+IOException printStackTrace java.io.IOException
+BufferedReader readLine close java.io.BufferedReader
+JSONArray length getJSONObject org.json.JSONArray
+List add get remove java.util.List
+TextView setText android.widget.TextView
+PrintStream println java.io.PrintStream
+XStream processAnnotations fromXML com.thoughtworks.xstream.XStream
+ReentrantLock lock unlock java.util.concurrent.locks.ReentrantLock
+Map get put java.util.Map
+TextView setText android.widget.TextView
+ImageView setImageResource android.widget.ImageView
+ServletOutputStream write javax.servlet.ServletOutputStream
+HttpServletResponse getOutputStream javax.servlet.http.HttpServletResponse
+List add java.util.List
+PrintStream println java.io.PrintStream
+KeyManagerFactory getDefaultAlgorithm getInstance init getKeyManagers javax.net.ssl.KeyManagerFactory
+KeyStore getInstance load java.security.KeyStore
+WebView getSettings setWebChromeClient setWebViewClient loadUrl javafx.scene.web.WebView
+EntityManager persist javax.persistence.EntityManager
+Log i org.apache.commons.logging.Log
+Log d i e org.apache.commons.logging.Log
+File getAbsolutePath java.io.File
+TextView setText android.widget.TextView
+TimeUnit sleep java.util.concurrent.TimeUnit
+PrintStream println java.io.PrintStream
+DateTime now org.joda.time.DateTime
+Button setOnClickListener javafx.scene.control.Button
+Random nextInt java.util.Random
+ArrayList clear trimToSize add java.util.ArrayList
+PrintStream println java.io.PrintStream
+ImageView setVisibility android.widget.ImageView
+Button setOnClickListener javafx.scene.control.Button
+HttpSession getServletContext javax.servlet.http.HttpSession
+PrintStream println java.io.PrintStream
+ServletContext getRealPath javax.servlet.ServletContext
+BufferedOutputStream write flush close java.io.BufferedOutputStream
+PrintStream println java.io.PrintStream
+List add toArray java.util.List
+Gson toJson fromJson com.google.gson.Gson
+JsonWriter beginObject value name beginArray endArray endObject com.google.gson.stream.JsonWriter
+JsonReader beginObject hasNext nextName nextString nextInt beginArray endArray endObject com.google.gson.stream.JsonReader
+GsonBuilder create setPrettyPrinting registerTypeAdapter com.google.gson.GsonBuilder
+XStream toXML com.thoughtworks.xstream.XStream
+List add java.util.List
+Assert assertEquals assertTrue assertFalse org.junit.Assert
+Assert assertNotNull junit.framework.Assert
+PrintStream println java.io.PrintStream
+UUID toString randomUUID java.util.UUID
+MenuItem getItemId java.awt.MenuItem
+PrintStream println java.io.PrintStream
+Arrays asList java.util.Arrays
+List stream java.util.List
+Stream collect filter java.util.stream.Stream
+Gson toJson com.google.gson.Gson
+Collectors toList java.util.stream.Collectors
+GsonBuilder create com.google.gson.GsonBuilder
+PrintStream println java.io.PrintStream
+List add toString java.util.List
+DateTime now plusDays withYear minusDays org.joda.time.DateTime
+Collections sort java.util.Collections
+Button setOnClickListener javafx.scene.control.Button
+PrintStream println java.io.PrintStream
+Gson toJson getAdapter com.google.gson.Gson
+Map put entrySet java.util.Map
+Entry getKey getValue java.util.Map.Entry
+Collections emptyMap java.util.Collections
+JsonWriter beginArray name beginObject endObject endArray com.google.gson.stream.JsonWriter
+GsonBuilder create setPrettyPrinting registerTypeAdapter com.google.gson.GsonBuilder
+MenuItem getItemId java.awt.MenuItem
+TextView setText android.widget.TextView
+Locale toString getDefault forLanguageTag java.util.Locale
+TextView setText android.widget.TextView
+PrintStream println java.io.PrintStream
+TextView setText android.widget.TextView
+Log d org.apache.commons.logging.Log
+Paths get java.nio.file.Paths
+PrintStream println java.io.PrintStream
+MediaPlayer create javafx.scene.media.MediaPlayer
+TextView append android.widget.TextView
+Intent putExtra android.content.Intent
+File getAbsolutePath java.io.File
+PrintStream println java.io.PrintStream
+Gson toJson fromJson com.google.gson.Gson
+Map put java.util.Map
+HttpClientBuilder setSSLContext org.apache.http.impl.client.HttpClientBuilder
+HttpClients custom org.apache.http.impl.client.HttpClients
+TextView setText android.widget.TextView
+MenuItem getItemId java.awt.MenuItem
+URL openConnection java.net.URL
+URLConnection setDoInput getInputStream java.net.URLConnection
+BufferedReader readLine close java.io.BufferedReader
+PrintStream println java.io.PrintStream
+Gson toJson com.google.gson.Gson
+Path moveTo lineTo close javafx.scene.shape.Path
+TextView setText setLayoutParams getWidth getHeight android.widget.TextView
+Canvas drawPath java.awt.Canvas
+Socket getInputStream getOutputStream close java.net.Socket
+TextView setText android.widget.TextView
+Locale getDefault java.util.Locale
+Intent putExtra getStringArrayListExtra android.content.Intent
+Log d org.apache.commons.logging.Log
+ObjectOutputStream writeObject java.io.ObjectOutputStream
+IOException printStackTrace java.io.IOException
+UnknownHostException printStackTrace java.net.UnknownHostException
+ArrayList get java.util.ArrayList
+HttpSession getAttribute getCreationTime setAttribute javax.servlet.http.HttpSession
+List removeAll java.util.List
+Map keySet get java.util.Map
+ResultSet getObject java.sql.ResultSet
+CallableStatement setObject getObject java.sql.CallableStatement
+PreparedStatement setObject java.sql.PreparedStatement
+ClientProtocolException printStackTrace org.apache.http.client.ClientProtocolException
+JSONException printStackTrace org.json.JSONException
+HttpClient execute org.apache.http.client.HttpClient
+HttpEntity getContent org.apache.http.HttpEntity
+HttpResponse getStatusLine getEntity org.apache.http.HttpResponse
+IOException printStackTrace java.io.IOException
+Log i org.apache.commons.logging.Log
+BufferedReader readLine java.io.BufferedReader
+StatusLine toString org.apache.http.StatusLine
+InputStream close java.io.InputStream
+PrintStream println java.io.PrintStream
+Map get java.util.Map
+Button setClickable setOnClickListener javafx.scene.control.Button
+Intent putExtra android.content.Intent
+Transaction commit rollback org.hibernate.Transaction
+Order asc org.hibernate.criterion.Order
+Criteria list addOrder org.hibernate.Criteria
+Session save isOpen close saveOrUpdate delete createCriteria org.hibernate.Session
+HibernateException printStackTrace org.hibernate.HibernateException
+ArrayList size get java.util.ArrayList
+PrintWriter write java.io.PrintWriter
+HttpServletRequest getReader javax.servlet.http.HttpServletRequest
+Gson fromJson toJson com.google.gson.Gson
+HttpServletResponse setContentType getWriter setStatus javax.servlet.http.HttpServletResponse
+PrintStream println java.io.PrintStream
+TextView setText android.widget.TextView
+Intent putExtra android.content.Intent
+ArrayList add get java.util.ArrayList
+TextView setText android.widget.TextView
+Map get java.util.Map
+Configuration buildSessionFactory org.hibernate.cfg.Configuration
+HttpServletRequest getInputStream javax.servlet.http.HttpServletRequest
+Arrays copyOf java.util.Arrays
+InputStream read java.io.InputStream
+MenuItem getItemId java.awt.MenuItem
+AudioSystem getLine getMixerInfo getMixer javax.sound.sampled.AudioSystem
+Mixer getLine javax.sound.sampled.Mixer
+SourceDataLine open isOpen close start javax.sound.sampled.SourceDataLine
+PrintStream println java.io.PrintStream
+Gson toJson com.google.gson.Gson
+PrintStream println java.io.PrintStream
+Assert assertEquals assertNull org.junit.Assert
+PrintStream println java.io.PrintStream
+MediaPlayer create start javafx.scene.media.MediaPlayer
+Log i org.apache.commons.logging.Log
+PrintStream println java.io.PrintStream
+Gson fromJson com.google.gson.Gson
+Intent setPackage android.content.Intent
+TextView setText android.widget.TextView
+InputSource setCharacterStream org.xml.sax.InputSource
+NodeList item org.w3c.dom.NodeList
+ParserConfigurationException getMessage javax.xml.parsers.ParserConfigurationException
+Document getElementsByTagName org.w3c.dom.Document
+DocumentBuilder parse javax.xml.parsers.DocumentBuilder
+SAXException getMessage org.xml.sax.SAXException
+Node hasChildNodes getFirstChild getNextSibling getNodeType getNodeValue org.w3c.dom.Node
+Log e org.apache.commons.logging.Log
+IOException getMessage java.io.IOException
+DocumentBuilderFactory newInstance newDocumentBuilder javax.xml.parsers.DocumentBuilderFactory
+MenuItem getItemId java.awt.MenuItem
+TextView setTextSize android.widget.TextView
