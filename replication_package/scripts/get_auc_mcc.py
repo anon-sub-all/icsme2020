@@ -1,8 +1,9 @@
 import numpy as np
+import pandas as pd
 
 from tabulate import tabulate
 from gensim.models import Word2Vec
-from sklearn.metrics import auc, roc_curve
+from sklearn.metrics import auc, roc_curve, roc_auc_score, matthews_corrcoef
 from sklearn.model_selection import StratifiedKFold
 from collections import Counter
 
@@ -91,7 +92,7 @@ def get_vectors(model, lines):
 
 
 def matthews_coeff_classes(classifier, X, y, n_classes):
-    coeff_metrics = dict()
+    mean_coeff = list()
 
     for k, (train, test) in enumerate(StratifiedKFold(n_splits=10).split(X, y)):
         X_train, X_test = X[train], X[test]
@@ -103,52 +104,14 @@ def matthews_coeff_classes(classifier, X, y, n_classes):
         classifier.fit(X_train, y_train)
         print("Done!")
 
-        y_score = classifier.predict_proba(X[test])
-        y_score2 = classifier.predict(X[test])
-
-        y_test_dummies = pd.get_dummies(y[test], drop_first=False).values
-        for i in range(n_classes):
-            y_score_transformed = []
-
-            for value in y_score[:, i]:
-                if value >= 0.85:
-                    y_score_transformed.append(1)
-                elif 0.5 <= value < 0.85:
-                    y_score_transformed.append(0)
-                else:
-                    y_score_transformed.append(-1)
-
-            y_score_transformed = np.array(y_score_transformed)
-            y_dummies_transformed = [1 if value == 1 else -1 for value in y_test_dummies[:, i]]
-            y_matthew_metric = matthews_corrcoef(y_dummies_transformed, y_score_transformed)
-
-            if i in list(coeff_metrics.keys()):
-                coeff_metrics[i].append(y_matthew_metric)
-            else:
-                coeff_metrics[i] = [y_matthew_metric]
-    
-    mean_coeff = list()
-    for i in range(n_classes):
-        mean_coeff.append(np.array(coeff_metrics[i]).mean())
+        y_pred = classifier.predict(X[test])
+        mean_coeff.append(matthews_corrcoef(y_test, y_pred))
     
     return mean_coeff
 
 
-
-def tolerant_mean(arrs):
-    list_arrays = [list(np_array) for np_array in arrs]
-    lens = [len(i) for i in list_arrays]
-    arr = np.ma.empty((np.max(lens), len(list_arrays)))
-    arr.mask = True
-    for idx, l in enumerate(arrs):
-        arr[:len(l),idx] = l
-    return arr.mean(axis = -1), arr.std(axis=-1)
-
-
 def auc_roc_curves(classifier, X, y, n_classes):
-    tprs_fold = dict()
-    fprs_fold = dict()
-    aucs_fold = dict()
+    mean_auc = list()
 
     cv = StratifiedKFold(n_splits=10)
 
@@ -161,40 +124,14 @@ def auc_roc_curves(classifier, X, y, n_classes):
 
         y_score = classifier.predict_proba(X[test])
 
-        y_test = pd.get_dummies(y[test], drop_first=False).values
-        for j in range(n_classes):
-
-            fpr_metrics, tpr_metrics, _ = roc_curve(y_test[:, j], y_score[:, j])
-            roc_auc_metrics = auc(fpr_metrics, tpr_metrics)
-
-            if j in list(tprs_fold.keys()):
-                tprs_fold[j].append(tpr_metrics)
-                fprs_fold[j].append(fpr_metrics)
-                aucs_fold[j].append(roc_auc_metrics)
-            else:
-                tprs_fold[j] = [tpr_metrics]
-                fprs_fold[j] = [fpr_metrics]
-                aucs_fold[j] = [roc_auc_metrics]
-
-    mean_folds_tprs = list()
-    mean_folds_fprs = list()
-    mean_folds_aucs = list()
-
-    for i in range(n_classes):
-        mean_arrays_tprs, _ = tolerant_mean(tprs_fold[i])
-        mean_arrays_fprs, _ = tolerant_mean(fprs_fold[i])
-        
-        mean_folds_tprs.append(mean_arrays_tprs)
-        mean_folds_fprs.append(mean_arrays_fprs)
-        mean_folds_aucs.append(np.array(aucs_fold[i]).mean())
-
-    return mean_folds_aucs
-
+        mean_auc.append(roc_auc_score(y[test], y_score, multi_class="ovo"))
+    
+    return mean_auc
 
 
 def get_metrics():
     print("Reading file ...")
-    data = open(f"data/all_snippets.txt")
+    data = open(f"data/coster.txt")
     lines = read_file(data)
     data.close()
     print("Done !")
@@ -214,6 +151,8 @@ def get_metrics():
     print("Obtaining attributes and output for the data ...")
     X, y, libs_mapping = get_vectors(model_w2vec, lines_filtered)
     print("Done !")
+
+    print(len(libs_mapping))
 
     models_test = [
         ("DT", DecisionTreeClassifier()),
@@ -257,4 +196,4 @@ def get_metrics():
 
     print()
     print("Mean of MCC values per classifier")
-    print(tabulate(auc_table))
+    print(tabulate(mcc_table))
