@@ -110,28 +110,9 @@ def matthews_coeff_classes(classifier, X, y, n_classes):
     return mean_coeff
 
 
-def auc_roc_curves(classifier, X, y, n_classes):
-    mean_auc = list()
-
-    cv = StratifiedKFold(n_splits=10)
-
-    for i, (train, test) in enumerate(cv.split(X, y)):
-        print(f"Fold # {i + 1}")
-
-        print("Training ...")
-        classifier.fit(X[train], y[train])
-        print("Done!")
-
-        y_score = classifier.predict_proba(X[test])
-
-        mean_auc.append(roc_auc_score(y[test], y_score, multi_class="ovo"))
-    
-    return mean_auc
-
-
 def get_metrics():
     print("Reading file ...")
-    data = open(f"data/coster.txt")
+    data = open(f"data/all_snippets.txt")
     lines = read_file(data)
     data.close()
     print("Done !")
@@ -152,8 +133,6 @@ def get_metrics():
     X, y, libs_mapping = get_vectors(model_w2vec, lines_filtered)
     print("Done !")
 
-    print(len(libs_mapping))
-
     models_test = [
         ("DT", DecisionTreeClassifier()),
         ("GNB", GaussianNB()),
@@ -161,30 +140,12 @@ def get_metrics():
         ("RF", RandomForestClassifier(n_jobs=8)),
         ("KNN", KNeighborsClassifier(n_jobs=8)),
     ]
-    
-    auc_table = list()
-
-    print("Calculating AUC-ROC values ...")
-    for name, classifier in models_test:
-        print(f"Calculating AUC-ROC values for classifier {name}")
-        auc_row = list()
-        auc_row.append(name)
-
-        auc_values = auc_roc_curves(classifier, X, y, len(libs_mapping))
-        auc_row.append(np.mean(auc_values))
-
-        auc_table.append(auc_row)
-    print("Done !")
-        
-    print()
-    print("Mean of AUC values per classifier")
-    print(tabulate(auc_table))
 
     mcc_table = list()
 
     print("Calculating MCC values ...")
     for name, classifier in models_test:
-        print(f"Calculating AUC-ROC values for classifier {name}")
+        print(f"Calculating MCC values for classifier {name}")
         mcc_row = list()
         mcc_row.append(name)
 

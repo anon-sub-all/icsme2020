@@ -39,7 +39,7 @@ def obtain_data(lines: list):
 
 
 # Returns those FQNs with an ocurrence higher than threshold
-def filter_data(lines: list, threshold: int):
+def filter_data(lines: list, threshold: int = 5):
     counter_data_dict = dict()
 
     for line in lines:
@@ -90,7 +90,7 @@ def get_vectors(model, lines):
     return np.array(inputs), np.array(output), classes_numbered
 
 
-def benchmark(classifier, X, y, k_th, splits=10):
+def benchmark(classifier, X, y, k_th, splits=5):
     scores = list()
 
     precisions = list()
@@ -134,8 +134,7 @@ def train_evaluate_coster(file_path: str):
     print("Done !")
 
     print("Filtering the data with fqns higher than a threshold ...")
-    splits_data = 5
-    lines_filtered = filter_data(lines, splits_data)
+    lines_filtered = filter_data(lines)
     print("Done !")
 
     print("Getting the corpus of the data to vectorize it ...")
@@ -159,12 +158,11 @@ def train_evaluate_coster(file_path: str):
 
     for name, classifier in models_test:
         print(name)
-
         print(f"Results for the classifier {name}")
         tops = [1, 3, 5]
 
         for top in tops:
-            precision_k, recall_k = benchmark(classifier, X, y, top, splits_data)
+            precision_k, recall_k = benchmark(classifier, X, y, top)
             print(f"Precision@{top}={round(precision_k, 2)} Recall@{top}={round(recall_k, 2)}")
         
         print()

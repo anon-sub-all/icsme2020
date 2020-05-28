@@ -1,6 +1,7 @@
 import pickle
 import numpy as np
 
+from pathlib import Path
 from collections import Counter
 from sklearn.metrics import precision_score, recall_score
 
@@ -69,40 +70,49 @@ def benchmark(data, trained_model, w2vec_model, libs_mapping, k_th):
 def evaluate():
 	MODELS_PATH = "data/models"
 
-	print("Loading the trained data ...")
-	dt = pickle.load(open(f"{MODELS_PATH}/DT.model", "rb"))
+	path_dt = Path(f"{MODELS_PATH}/DT.model")
+	path_word2vec = Path(f"{MODELS_PATH}/word2vec.model")
+	path_mapping = Path(f"{MODELS_PATH}/libs_mapping.model")
 
-	model_w2vec = pickle.load(open(f"{MODELS_PATH}/word2vec.model", "rb"))
-	libs_mapping = pickle.load(open(f"{MODELS_PATH}/libs_mapping.model", "rb"))
+	if path_dt.exists() and path_word2vec.exists() and path_mapping.exists():
+		print("Loading the trained data ...")
+		dt = pickle.load(open(f"{MODELS_PATH}/DT.model", "rb"))
+		model_w2vec = pickle.load(open(f"{MODELS_PATH}/word2vec.model", "rb"))
+		libs_mapping = pickle.load(open(f"{MODELS_PATH}/libs_mapping.model", "rb"))
 
-	models_test = [
-        ("DT", dt),
-    ]
-	print("Done !")
+		models_test = [
+			("DT", dt),
+		]
+		print("Done !")
 
-	qualitas_data = list()
-	print("Reading data file ...")
-	with open("data/qualitas.txt") as f:
-		while True:
-			line = f.readline()
-			if not line:
-				break
-			else:
-				line = line.strip()
-				line = line.split()
+		qualitas_data = list()
+		print("Reading data file ...")
+		with open("data/qualitas.txt") as f:
+			while True:
+				line = f.readline()
+				if not line:
+					break
+				else:
+					line = line.strip()
+					line = line.split()
 
-				if len(line) > 2:
-					qualitas_data.append(line)
+					if len(line) > 2:
+						qualitas_data.append(line)
 
-	print("Done !")
+		print("Done !")
 
-	print("Calculating Precision and Recall for the data ...")
-	tops = [1, 3, 5]
+		print("Calculating Precision and Recall for the data ...")
+		tops = [1, 3, 5]
 
-	for name, selected_model in models_test:
-		print(name)
-		for top in tops:
-		    precision_k, recall_k = benchmark(qualitas_data, selected_model, model_w2vec, libs_mapping, top)
-		    print(f"Precision@{top}={precision_k} Recall@{top}={recall_k}")
+		for name, selected_model in models_test:
+			print(name)
+			for top in tops:
+				precision_k, recall_k = benchmark(qualitas_data, selected_model, model_w2vec, libs_mapping, top)
+				print(f"Precision@{top}={precision_k} Recall@{top}={recall_k}")
+			print()
+		print("Done !")
+	else:
 		print()
-	print("Done !")
+		print("ERROR: One or several trained models are required to do this step!")
+		print("Please, complete previous steps to get the required models")
+		print()

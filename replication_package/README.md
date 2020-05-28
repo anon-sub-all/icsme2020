@@ -18,3 +18,5 @@ Note: Out of the two trained models, only Decision Trees (DT) is saved on disk f
 Due to the size Random Forest (RF) requires (more than 100 GB), this model is not saved on disk.
 We provided the code in case you also wanted to save this model.
 Results reported on the paper for Qualitas corpus were calculated using the saved version of DT and RF.
+
+To get the statistics in RQ1, execute the scripts in the`RScripts/` folder.

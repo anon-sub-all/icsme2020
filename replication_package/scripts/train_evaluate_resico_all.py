@@ -61,7 +61,6 @@ def filter_data(lines: list, threshold: int):
     return lines_filtered
 
 
-
 def get_vectors(model, lines):
     inputs = list()
     output = list()
